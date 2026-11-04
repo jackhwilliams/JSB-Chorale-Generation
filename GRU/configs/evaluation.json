@@ -1,0 +1,11 @@
+{
+  "data": "../artifacts/preprocessing",
+  "checkpoints": {
+    "gru": "../checkpoints/baseline/best.pt"
+  },
+  "seed": 8675309,
+  "samples_per_mode": 20,
+  "chord_temperature": 1.0,
+  "duration_temperature": 1.0,
+  "max_events": 512
+}

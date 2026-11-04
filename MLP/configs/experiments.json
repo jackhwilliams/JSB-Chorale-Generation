@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "training_config": "training.json",
+  "experiments": [
+    {
+      "name": "mlp_baseline_seed8675309",
+      "model": "mlp",
+      "model_config": "baseline.json"
+    }
+  ]
+}

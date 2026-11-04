@@ -1,0 +1,14 @@
+{
+  "checkpoints/baseline/best.pt": "310c0bb81db0b351d7631656dee0f13ee2122167dce79acf5d7a25b1870649c1",
+  "checkpoints/tonality/best.pt": "2ace4a00b08c85923972bfc50020484db198c11112e3a9822b54d70d30512ea9",
+  "artifacts/preprocessing/chorales.json": "b557a71ec398088a69d616374c9cae0c36f28cacfa95cde0b54bb0d8835ea1a6",
+  "artifacts/preprocessing/metadata.json": "98392c7d890144065ff2075988c72a941c9c4352e4699efb9e1639d330afe6e0",
+  "configs/baseline.json": "203bf628b9a546a370f6ef9e70d551d9ec367158585b88000f0d04b79d56cd1a",
+  "configs/chord_labels.json": "0dbdc4c8186620c1616c65dbea4893f061971ea44b1d292e5fa5503b1b49fb7c",
+  "configs/evaluation.json": "5905bb5608fc2b53bd62d4ac60a54bd9b5fea8b19de36e08966220ff7126ec73",
+  "configs/experiments.json": "fb6011a981cc6832e0d36b7e606542828a1e072fa52a38575252040aebc5d85b",
+  "configs/generation.json": "bf8f788bf344e42e08ac4e87827075c442b1b081a32b0377d10bab73be454261",
+  "configs/tonality.json": "b75cd5f6e12fa32562f95b494d27012bdbd84df1c3a72cf21487144da5dd4d8a",
+  "configs/training.json": "257551511043b120182accb741aef2c41c7538dbc79725b2fa61d0283eedbfe7",
+  "tests/fixtures/generation_reference.json": "0e4225343379e1e364a4c7c9f14b0364b9e0564033e66d25d5cf6a4d9dfa8755"
+}

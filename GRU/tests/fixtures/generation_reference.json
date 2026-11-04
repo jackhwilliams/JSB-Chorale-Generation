@@ -1,0 +1,6234 @@
+{
+  "baseline": {
+    "major_123": {
+      "events": [
+        {
+          "chord_index": 1,
+          "duration": 2,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 90,
+          "duration": 2,
+          "chord_label": "vii\u00b0"
+        },
+        {
+          "chord_index": 1,
+          "duration": 4,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 22,
+          "duration": 2,
+          "chord_label": "ii\u00b0 half7"
+        },
+        {
+          "chord_index": 18,
+          "duration": 1,
+          "chord_label": "ii\u00b0"
+        },
+        {
+          "chord_index": 64,
+          "duration": 1,
+          "chord_label": "\u266dVI"
+        },
+        {
+          "chord_index": 80,
+          "duration": 8,
+          "chord_label": "\u266dVII"
+        },
+        {
+          "chord_index": 24,
+          "duration": 6,
+          "chord_label": "\u266dIII"
+        },
+        {
+          "chord_index": 27,
+          "duration": 2,
+          "chord_label": "\u266dIII 7"
+        },
+        {
+          "chord_index": 64,
+          "duration": 2,
+          "chord_label": "\u266dVI"
+        },
+        {
+          "chord_index": 5,
+          "duration": 2,
+          "chord_label": "i m7"
+        },
+        {
+          "chord_index": 41,
+          "duration": 4,
+          "chord_label": "iv"
+        },
+        {
+          "chord_index": 83,
+          "duration": 4,
+          "chord_label": "\u266dVII 7"
+        },
+        {
+          "chord_index": 24,
+          "duration": 12,
+          "chord_label": "\u266dIII"
+        },
+        {
+          "chord_index": 43,
+          "duration": 2,
+          "chord_label": "IV 7"
+        },
+        {
+          "chord_index": 24,
+          "duration": 2,
+          "chord_label": "\u266dIII"
+        },
+        {
+          "chord_index": 43,
+          "duration": 4,
+          "chord_label": "IV 7"
+        },
+        {
+          "chord_index": 80,
+          "duration": 4,
+          "chord_label": "\u266dVII"
+        },
+        {
+          "chord_index": 57,
+          "duration": 2,
+          "chord_label": "v"
+        },
+        {
+          "chord_index": 74,
+          "duration": 2,
+          "chord_label": "vi\u00b0"
+        },
+        {
+          "chord_index": 16,
+          "duration": 2,
+          "chord_label": "II"
+        },
+        {
+          "chord_index": 19,
+          "duration": 2,
+          "chord_label": "II 7"
+        },
+        {
+          "chord_index": 57,
+          "duration": 4,
+          "chord_label": "v"
+        },
+        {
+          "chord_index": 3,
+          "duration": 4,
+          "chord_label": "I 7"
+        },
+        {
+          "chord_index": 41,
+          "duration": 2,
+          "chord_label": "iv"
+        },
+        {
+          "chord_index": 1,
+          "duration": 2,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 22,
+          "duration": 4,
+          "chord_label": "ii\u00b0 half7"
+        },
+        {
+          "chord_index": 56,
+          "duration": 4,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 1,
+          "duration": 8,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 56,
+          "duration": 2,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 59,
+          "duration": 2,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 0,
+          "duration": 16,
+          "chord_label": "I"
+        }
+      ],
+      "trace": [
+        {
+          "prediction_index": 1,
+          "elapsed_duration": 0,
+          "progress": 0.0,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.10850784082120903,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.2671569127841656
+        },
+        {
+          "prediction_index": 2,
+          "elapsed_duration": 2,
+          "progress": 0.008771929824561403,
+          "chord_class": 71,
+          "chord_token": 71,
+          "chord_probability": 0.04012256181033966,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9680647572162788
+        },
+        {
+          "prediction_index": 3,
+          "elapsed_duration": 4,
+          "progress": 0.017543859649122806,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.9682639442381654,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5268024474186097
+        },
+        {
+          "prediction_index": 4,
+          "elapsed_duration": 8,
+          "progress": 0.03508771929824561,
+          "chord_class": 17,
+          "chord_token": 17,
+          "chord_probability": 0.2397713231972936,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.5631738006188413
+        },
+        {
+          "prediction_index": 5,
+          "elapsed_duration": 10,
+          "progress": 0.043859649122807015,
+          "chord_class": 14,
+          "chord_token": 14,
+          "chord_probability": 0.004981020977410973,
+          "eos": false,
+          "duration_class": 0,
+          "duration_token": 1,
+          "duration_probability": 0.14866125010530448
+        },
+        {
+          "prediction_index": 6,
+          "elapsed_duration": 11,
+          "progress": 0.04824561403508772,
+          "chord_class": 51,
+          "chord_token": 51,
+          "chord_probability": 0.07826891831336436,
+          "eos": false,
+          "duration_class": 0,
+          "duration_token": 1,
+          "duration_probability": 0.9670953619241269
+        },
+        {
+          "prediction_index": 7,
+          "elapsed_duration": 12,
+          "progress": 0.05263157894736842,
+          "chord_class": 63,
+          "chord_token": 63,
+          "chord_probability": 0.06575686748744328,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.029170309326582503
+        },
+        {
+          "prediction_index": 8,
+          "elapsed_duration": 20,
+          "progress": 0.08771929824561403,
+          "chord_class": 18,
+          "chord_token": 18,
+          "chord_probability": 0.7060791180190725,
+          "eos": false,
+          "duration_class": 5,
+          "duration_token": 6,
+          "duration_probability": 0.07078170439719975
+        },
+        {
+          "prediction_index": 9,
+          "elapsed_duration": 26,
+          "progress": 0.11403508771929824,
+          "chord_class": 21,
+          "chord_token": 21,
+          "chord_probability": 0.17542564721512366,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9214427306258608
+        },
+        {
+          "prediction_index": 10,
+          "elapsed_duration": 28,
+          "progress": 0.12280701754385964,
+          "chord_class": 51,
+          "chord_token": 51,
+          "chord_probability": 0.5057857333335731,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.3863545848317647
+        },
+        {
+          "prediction_index": 11,
+          "elapsed_duration": 30,
+          "progress": 0.13157894736842105,
+          "chord_class": 5,
+          "chord_token": 5,
+          "chord_probability": 0.10893417002030839,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9827856946203383
+        },
+        {
+          "prediction_index": 12,
+          "elapsed_duration": 32,
+          "progress": 0.14035087719298245,
+          "chord_class": 31,
+          "chord_token": 31,
+          "chord_probability": 0.16594818585466142,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5161444905993247
+        },
+        {
+          "prediction_index": 13,
+          "elapsed_duration": 36,
+          "progress": 0.15789473684210525,
+          "chord_class": 66,
+          "chord_token": 66,
+          "chord_probability": 0.05805808992011889,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.7142440734715892
+        },
+        {
+          "prediction_index": 14,
+          "elapsed_duration": 40,
+          "progress": 0.17543859649122806,
+          "chord_class": 18,
+          "chord_token": 18,
+          "chord_probability": 0.8650492608857244,
+          "eos": false,
+          "duration_class": 9,
+          "duration_token": 10,
+          "duration_probability": 0.10919453394155988
+        },
+        {
+          "prediction_index": 15,
+          "elapsed_duration": 52,
+          "progress": 0.22807017543859648,
+          "chord_class": 33,
+          "chord_token": 33,
+          "chord_probability": 0.04991382101451309,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.24401577763999155
+        },
+        {
+          "prediction_index": 16,
+          "elapsed_duration": 54,
+          "progress": 0.23684210526315788,
+          "chord_class": 18,
+          "chord_token": 18,
+          "chord_probability": 0.0023141902316260983,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.6960921154347333
+        },
+        {
+          "prediction_index": 17,
+          "elapsed_duration": 56,
+          "progress": 0.24561403508771928,
+          "chord_class": 33,
+          "chord_token": 33,
+          "chord_probability": 0.07746759345067228,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5713503702116892
+        },
+        {
+          "prediction_index": 18,
+          "elapsed_duration": 60,
+          "progress": 0.2631578947368421,
+          "chord_class": 63,
+          "chord_token": 63,
+          "chord_probability": 0.8575954181099381,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5644655795696297
+        },
+        {
+          "prediction_index": 19,
+          "elapsed_duration": 64,
+          "progress": 0.2807017543859649,
+          "chord_class": 45,
+          "chord_token": 45,
+          "chord_probability": 0.06421184996911593,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.23745058766515764
+        },
+        {
+          "prediction_index": 20,
+          "elapsed_duration": 66,
+          "progress": 0.2894736842105263,
+          "chord_class": 59,
+          "chord_token": 59,
+          "chord_probability": 0.060210045363612075,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9336476126917346
+        },
+        {
+          "prediction_index": 21,
+          "elapsed_duration": 68,
+          "progress": 0.2982456140350877,
+          "chord_class": 12,
+          "chord_token": 12,
+          "chord_probability": 0.01002872372696546,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.46299379881941083
+        },
+        {
+          "prediction_index": 22,
+          "elapsed_duration": 70,
+          "progress": 0.30701754385964913,
+          "chord_class": 15,
+          "chord_token": 15,
+          "chord_probability": 0.567501978155836,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9603293105332388
+        },
+        {
+          "prediction_index": 23,
+          "elapsed_duration": 72,
+          "progress": 0.3157894736842105,
+          "chord_class": 45,
+          "chord_token": 45,
+          "chord_probability": 0.5815650691676978,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.4411251495075462
+        },
+        {
+          "prediction_index": 24,
+          "elapsed_duration": 76,
+          "progress": 0.3333333333333333,
+          "chord_class": 3,
+          "chord_token": 3,
+          "chord_probability": 0.031229075003224645,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.9066234686371423
+        },
+        {
+          "prediction_index": 25,
+          "elapsed_duration": 80,
+          "progress": 0.3508771929824561,
+          "chord_class": 31,
+          "chord_token": 31,
+          "chord_probability": 0.31807269419544804,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.33584646502831234
+        },
+        {
+          "prediction_index": 26,
+          "elapsed_duration": 82,
+          "progress": 0.35964912280701755,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.12787020857812015,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9293427957597579
+        },
+        {
+          "prediction_index": 27,
+          "elapsed_duration": 84,
+          "progress": 0.3684210526315789,
+          "chord_class": 17,
+          "chord_token": 17,
+          "chord_probability": 0.683611377912947,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5742577041300904
+        },
+        {
+          "prediction_index": 28,
+          "elapsed_duration": 88,
+          "progress": 0.38596491228070173,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.8702273010614276,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.17319301955381616
+        },
+        {
+          "prediction_index": 29,
+          "elapsed_duration": 92,
+          "progress": 0.40350877192982454,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.16105185825550175,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.1140187469669097
+        },
+        {
+          "prediction_index": 30,
+          "elapsed_duration": 100,
+          "progress": 0.43859649122807015,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.489339591293524,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.28446083861171795
+        },
+        {
+          "prediction_index": 31,
+          "elapsed_duration": 102,
+          "progress": 0.4473684210526316,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.9183631907351235,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9884923937004202
+        },
+        {
+          "prediction_index": 32,
+          "elapsed_duration": 104,
+          "progress": 0.45614035087719296,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.3003650188599167,
+          "eos": false,
+          "duration_class": 12,
+          "duration_token": 13,
+          "duration_probability": 0.30693582256703406
+        },
+        {
+          "prediction_index": 33,
+          "elapsed_duration": 120,
+          "progress": 0.5263157894736842,
+          "chord_class": 76,
+          "chord_token": 77,
+          "chord_probability": 0.9779256405560126,
+          "eos": true
+        }
+      ],
+      "termination_reason": "eos",
+      "generation_config": {
+        "seed": 123,
+        "chord_temperature": 1.0,
+        "duration_temperature": 1.0,
+        "max_events": 512
+      }
+    },
+    "major_8675309": {
+      "events": [
+        {
+          "chord_index": 1,
+          "duration": 8,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 21,
+          "duration": 2,
+          "chord_label": "ii m7"
+        },
+        {
+          "chord_index": 80,
+          "duration": 2,
+          "chord_label": "\u266dVII"
+        },
+        {
+          "chord_index": 43,
+          "duration": 4,
+          "chord_label": "IV 7"
+        },
+        {
+          "chord_index": 80,
+          "duration": 4,
+          "chord_label": "\u266dVII"
+        },
+        {
+          "chord_index": 24,
+          "duration": 4,
+          "chord_label": "\u266dIII"
+        },
+        {
+          "chord_index": 80,
+          "duration": 4,
+          "chord_label": "\u266dVII"
+        },
+        {
+          "chord_index": 3,
+          "duration": 4,
+          "chord_label": "I 7"
+        },
+        {
+          "chord_index": 40,
+          "duration": 4,
+          "chord_label": "IV"
+        },
+        {
+          "chord_index": 17,
+          "duration": 2,
+          "chord_label": "ii"
+        },
+        {
+          "chord_index": 43,
+          "duration": 2,
+          "chord_label": "IV 7"
+        },
+        {
+          "chord_index": 56,
+          "duration": 8,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 0,
+          "duration": 8,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 40,
+          "duration": 4,
+          "chord_label": "IV"
+        },
+        {
+          "chord_index": 57,
+          "duration": 4,
+          "chord_label": "v"
+        },
+        {
+          "chord_index": 15,
+          "duration": 4,
+          "chord_label": "\u266dii\u00b0 dim7"
+        },
+        {
+          "chord_index": 17,
+          "duration": 4,
+          "chord_label": "ii"
+        },
+        {
+          "chord_index": 0,
+          "duration": 4,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 40,
+          "duration": 4,
+          "chord_label": "IV"
+        },
+        {
+          "chord_index": 90,
+          "duration": 4,
+          "chord_label": "vii\u00b0"
+        },
+        {
+          "chord_index": 0,
+          "duration": 2,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 38,
+          "duration": 2,
+          "chord_label": "iii\u00b0 half7"
+        },
+        {
+          "chord_index": 40,
+          "duration": 4,
+          "chord_label": "IV"
+        },
+        {
+          "chord_index": 56,
+          "duration": 4,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 73,
+          "duration": 4,
+          "chord_label": "vi"
+        },
+        {
+          "chord_index": 56,
+          "duration": 2,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 59,
+          "duration": 2,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 0,
+          "duration": 2,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 3,
+          "duration": 2,
+          "chord_label": "I 7"
+        },
+        {
+          "chord_index": 40,
+          "duration": 2,
+          "chord_label": "IV"
+        },
+        {
+          "chord_index": 61,
+          "duration": 2,
+          "chord_label": "v m7"
+        },
+        {
+          "chord_index": 0,
+          "duration": 4,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 17,
+          "duration": 4,
+          "chord_label": "ii"
+        },
+        {
+          "chord_index": 59,
+          "duration": 2,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 37,
+          "duration": 2,
+          "chord_label": "iii m7"
+        },
+        {
+          "chord_index": 0,
+          "duration": 16,
+          "chord_label": "I"
+        }
+      ],
+      "trace": [
+        {
+          "prediction_index": 1,
+          "elapsed_duration": 0,
+          "progress": 0.0,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.10850784082120903,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.17947359591793166
+        },
+        {
+          "prediction_index": 2,
+          "elapsed_duration": 8,
+          "progress": 0.03508771929824561,
+          "chord_class": 16,
+          "chord_token": 16,
+          "chord_probability": 0.0015301985944740771,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.20314450769496809
+        },
+        {
+          "prediction_index": 3,
+          "elapsed_duration": 10,
+          "progress": 0.043859649122807015,
+          "chord_class": 63,
+          "chord_token": 63,
+          "chord_probability": 0.022677690942499985,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9424946772269557
+        },
+        {
+          "prediction_index": 4,
+          "elapsed_duration": 12,
+          "progress": 0.05263157894736842,
+          "chord_class": 33,
+          "chord_token": 33,
+          "chord_probability": 0.02496002754558545,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.4595673343205326
+        },
+        {
+          "prediction_index": 5,
+          "elapsed_duration": 16,
+          "progress": 0.07017543859649122,
+          "chord_class": 63,
+          "chord_token": 63,
+          "chord_probability": 0.6762799391839212,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.61641711805385
+        },
+        {
+          "prediction_index": 6,
+          "elapsed_duration": 20,
+          "progress": 0.08771929824561403,
+          "chord_class": 18,
+          "chord_token": 18,
+          "chord_probability": 0.334139222195177,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5323880348168696
+        },
+        {
+          "prediction_index": 7,
+          "elapsed_duration": 24,
+          "progress": 0.10526315789473684,
+          "chord_class": 63,
+          "chord_token": 63,
+          "chord_probability": 0.2070570230483633,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.6936723745116223
+        },
+        {
+          "prediction_index": 8,
+          "elapsed_duration": 28,
+          "progress": 0.12280701754385964,
+          "chord_class": 3,
+          "chord_token": 3,
+          "chord_probability": 0.05339645941325215,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.8617640560011699
+        },
+        {
+          "prediction_index": 9,
+          "elapsed_duration": 32,
+          "progress": 0.14035087719298245,
+          "chord_class": 30,
+          "chord_token": 30,
+          "chord_probability": 0.568505459918906,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.492279442275654
+        },
+        {
+          "prediction_index": 10,
+          "elapsed_duration": 36,
+          "progress": 0.15789473684210525,
+          "chord_class": 13,
+          "chord_token": 13,
+          "chord_probability": 0.03807140096314979,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.6030147758401307
+        },
+        {
+          "prediction_index": 11,
+          "elapsed_duration": 38,
+          "progress": 0.16666666666666666,
+          "chord_class": 33,
+          "chord_token": 33,
+          "chord_probability": 0.010156035752620855,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9864758569324723
+        },
+        {
+          "prediction_index": 12,
+          "elapsed_duration": 40,
+          "progress": 0.17543859649122806,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.3327617531221908,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.10300728294058126
+        },
+        {
+          "prediction_index": 13,
+          "elapsed_duration": 48,
+          "progress": 0.21052631578947367,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.4734064002481254,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.2622565307070604
+        },
+        {
+          "prediction_index": 14,
+          "elapsed_duration": 56,
+          "progress": 0.24561403508771928,
+          "chord_class": 30,
+          "chord_token": 30,
+          "chord_probability": 0.5887838326691686,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.7190446965638191
+        },
+        {
+          "prediction_index": 15,
+          "elapsed_duration": 60,
+          "progress": 0.2631578947368421,
+          "chord_class": 45,
+          "chord_token": 45,
+          "chord_probability": 0.0014464382655591712,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.2800658983436732
+        },
+        {
+          "prediction_index": 16,
+          "elapsed_duration": 64,
+          "progress": 0.2807017543859649,
+          "chord_class": 11,
+          "chord_token": 11,
+          "chord_probability": 0.04399216820267145,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.6838972061208453
+        },
+        {
+          "prediction_index": 17,
+          "elapsed_duration": 68,
+          "progress": 0.2982456140350877,
+          "chord_class": 13,
+          "chord_token": 13,
+          "chord_probability": 0.5682927883723018,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.6478727942988841
+        },
+        {
+          "prediction_index": 18,
+          "elapsed_duration": 72,
+          "progress": 0.3157894736842105,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.09092263388667025,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.476797714910871
+        },
+        {
+          "prediction_index": 19,
+          "elapsed_duration": 76,
+          "progress": 0.3333333333333333,
+          "chord_class": 30,
+          "chord_token": 30,
+          "chord_probability": 0.29832367931889536,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.6804805434628793
+        },
+        {
+          "prediction_index": 20,
+          "elapsed_duration": 80,
+          "progress": 0.3508771929824561,
+          "chord_class": 71,
+          "chord_token": 71,
+          "chord_probability": 0.09682783332604317,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.6294957670885812
+        },
+        {
+          "prediction_index": 21,
+          "elapsed_duration": 84,
+          "progress": 0.3684210526315789,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.7881565007355487,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.3960700925166612
+        },
+        {
+          "prediction_index": 22,
+          "elapsed_duration": 86,
+          "progress": 0.37719298245614036,
+          "chord_class": 29,
+          "chord_token": 29,
+          "chord_probability": 0.026160699357293503,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.888743428511924
+        },
+        {
+          "prediction_index": 23,
+          "elapsed_duration": 88,
+          "progress": 0.38596491228070173,
+          "chord_class": 30,
+          "chord_token": 30,
+          "chord_probability": 0.39918789011887373,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.7015801758185951
+        },
+        {
+          "prediction_index": 24,
+          "elapsed_duration": 92,
+          "progress": 0.40350877192982454,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.139967879241042,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.41410477435943205
+        },
+        {
+          "prediction_index": 25,
+          "elapsed_duration": 96,
+          "progress": 0.42105263157894735,
+          "chord_class": 58,
+          "chord_token": 58,
+          "chord_probability": 0.041452821966795346,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.2821786598739203
+        },
+        {
+          "prediction_index": 26,
+          "elapsed_duration": 100,
+          "progress": 0.43859649122807015,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.4509503050167367,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.3248369774298204
+        },
+        {
+          "prediction_index": 27,
+          "elapsed_duration": 102,
+          "progress": 0.4473684210526316,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.6354662255777823,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9975563911413792
+        },
+        {
+          "prediction_index": 28,
+          "elapsed_duration": 104,
+          "progress": 0.45614035087719296,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.8446716380105345,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.1897358024849734
+        },
+        {
+          "prediction_index": 29,
+          "elapsed_duration": 106,
+          "progress": 0.4649122807017544,
+          "chord_class": 3,
+          "chord_token": 3,
+          "chord_probability": 0.09125196013327164,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9773529777607881
+        },
+        {
+          "prediction_index": 30,
+          "elapsed_duration": 108,
+          "progress": 0.47368421052631576,
+          "chord_class": 30,
+          "chord_token": 30,
+          "chord_probability": 0.8042673716153774,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.2403719365167382
+        },
+        {
+          "prediction_index": 31,
+          "elapsed_duration": 110,
+          "progress": 0.4824561403508772,
+          "chord_class": 49,
+          "chord_token": 49,
+          "chord_probability": 0.016409957909984875,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9190268832392349
+        },
+        {
+          "prediction_index": 32,
+          "elapsed_duration": 112,
+          "progress": 0.49122807017543857,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.3200426714115852,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.46121509947600586
+        },
+        {
+          "prediction_index": 33,
+          "elapsed_duration": 116,
+          "progress": 0.5087719298245614,
+          "chord_class": 13,
+          "chord_token": 13,
+          "chord_probability": 0.07301888672745313,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.3381869332179526
+        },
+        {
+          "prediction_index": 34,
+          "elapsed_duration": 120,
+          "progress": 0.5263157894736842,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.11790896098318866,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.308719178234999
+        },
+        {
+          "prediction_index": 35,
+          "elapsed_duration": 122,
+          "progress": 0.5350877192982456,
+          "chord_class": 28,
+          "chord_token": 28,
+          "chord_probability": 0.3775256023701112,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.5270727162937163
+        },
+        {
+          "prediction_index": 36,
+          "elapsed_duration": 124,
+          "progress": 0.543859649122807,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.5686388707479684,
+          "eos": false,
+          "duration_class": 12,
+          "duration_token": 13,
+          "duration_probability": 0.12550697328201563
+        },
+        {
+          "prediction_index": 37,
+          "elapsed_duration": 140,
+          "progress": 0.6140350877192983,
+          "chord_class": 76,
+          "chord_token": 77,
+          "chord_probability": 0.6241948714036858,
+          "eos": true
+        }
+      ],
+      "termination_reason": "eos",
+      "generation_config": {
+        "seed": 8675309,
+        "chord_temperature": 1.0,
+        "duration_temperature": 1.0,
+        "max_events": 512
+      }
+    },
+    "minor_123": {
+      "events": [
+        {
+          "chord_index": 1,
+          "duration": 2,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 90,
+          "duration": 2,
+          "chord_label": "vii\u00b0"
+        },
+        {
+          "chord_index": 1,
+          "duration": 4,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 22,
+          "duration": 2,
+          "chord_label": "ii\u00b0 half7"
+        },
+        {
+          "chord_index": 18,
+          "duration": 1,
+          "chord_label": "ii\u00b0"
+        },
+        {
+          "chord_index": 64,
+          "duration": 1,
+          "chord_label": "\u266dVI"
+        },
+        {
+          "chord_index": 80,
+          "duration": 8,
+          "chord_label": "\u266dVII"
+        },
+        {
+          "chord_index": 24,
+          "duration": 6,
+          "chord_label": "\u266dIII"
+        },
+        {
+          "chord_index": 27,
+          "duration": 2,
+          "chord_label": "\u266dIII 7"
+        },
+        {
+          "chord_index": 64,
+          "duration": 2,
+          "chord_label": "\u266dVI"
+        },
+        {
+          "chord_index": 5,
+          "duration": 2,
+          "chord_label": "i m7"
+        },
+        {
+          "chord_index": 41,
+          "duration": 4,
+          "chord_label": "iv"
+        },
+        {
+          "chord_index": 83,
+          "duration": 4,
+          "chord_label": "\u266dVII 7"
+        },
+        {
+          "chord_index": 24,
+          "duration": 12,
+          "chord_label": "\u266dIII"
+        },
+        {
+          "chord_index": 43,
+          "duration": 2,
+          "chord_label": "IV 7"
+        },
+        {
+          "chord_index": 24,
+          "duration": 2,
+          "chord_label": "\u266dIII"
+        },
+        {
+          "chord_index": 43,
+          "duration": 4,
+          "chord_label": "IV 7"
+        },
+        {
+          "chord_index": 80,
+          "duration": 4,
+          "chord_label": "\u266dVII"
+        },
+        {
+          "chord_index": 57,
+          "duration": 2,
+          "chord_label": "v"
+        },
+        {
+          "chord_index": 74,
+          "duration": 2,
+          "chord_label": "vi\u00b0"
+        },
+        {
+          "chord_index": 16,
+          "duration": 2,
+          "chord_label": "II"
+        },
+        {
+          "chord_index": 57,
+          "duration": 6,
+          "chord_label": "v"
+        },
+        {
+          "chord_index": 77,
+          "duration": 4,
+          "chord_label": "vi m7"
+        },
+        {
+          "chord_index": 16,
+          "duration": 4,
+          "chord_label": "II"
+        },
+        {
+          "chord_index": 57,
+          "duration": 4,
+          "chord_label": "v"
+        },
+        {
+          "chord_index": 1,
+          "duration": 2,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 74,
+          "duration": 2,
+          "chord_label": "vi\u00b0"
+        },
+        {
+          "chord_index": 80,
+          "duration": 4,
+          "chord_label": "\u266dVII"
+        },
+        {
+          "chord_index": 1,
+          "duration": 4,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 41,
+          "duration": 2,
+          "chord_label": "iv"
+        },
+        {
+          "chord_index": 45,
+          "duration": 2,
+          "chord_label": "iv m7"
+        },
+        {
+          "chord_index": 56,
+          "duration": 2,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 59,
+          "duration": 2,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 1,
+          "duration": 8,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 64,
+          "duration": 2,
+          "chord_label": "\u266dVI"
+        },
+        {
+          "chord_index": 5,
+          "duration": 2,
+          "chord_label": "i m7"
+        },
+        {
+          "chord_index": 22,
+          "duration": 2,
+          "chord_label": "ii\u00b0 half7"
+        },
+        {
+          "chord_index": 95,
+          "duration": 4,
+          "chord_label": "vii\u00b0 dim7"
+        },
+        {
+          "chord_index": 1,
+          "duration": 4,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 22,
+          "duration": 2,
+          "chord_label": "ii\u00b0 half7"
+        },
+        {
+          "chord_index": 56,
+          "duration": 1,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 59,
+          "duration": 1,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 1,
+          "duration": 16,
+          "chord_label": "i"
+        }
+      ],
+      "trace": [
+        {
+          "prediction_index": 1,
+          "elapsed_duration": 0,
+          "progress": 0.0,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.7696020857353084,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.24036342369948835
+        },
+        {
+          "prediction_index": 2,
+          "elapsed_duration": 2,
+          "progress": 0.008771929824561403,
+          "chord_class": 71,
+          "chord_token": 71,
+          "chord_probability": 0.023769519510755066,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9633183715311072
+        },
+        {
+          "prediction_index": 3,
+          "elapsed_duration": 4,
+          "progress": 0.017543859649122806,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.9768816869649979,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5837852405657076
+        },
+        {
+          "prediction_index": 4,
+          "elapsed_duration": 8,
+          "progress": 0.03508771929824561,
+          "chord_class": 17,
+          "chord_token": 17,
+          "chord_probability": 0.23827705296527463,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.5925184597533707
+        },
+        {
+          "prediction_index": 5,
+          "elapsed_duration": 10,
+          "progress": 0.043859649122807015,
+          "chord_class": 14,
+          "chord_token": 14,
+          "chord_probability": 0.007152013744061789,
+          "eos": false,
+          "duration_class": 0,
+          "duration_token": 1,
+          "duration_probability": 0.11635187631406609
+        },
+        {
+          "prediction_index": 6,
+          "elapsed_duration": 11,
+          "progress": 0.04824561403508772,
+          "chord_class": 51,
+          "chord_token": 51,
+          "chord_probability": 0.06858202549780702,
+          "eos": false,
+          "duration_class": 0,
+          "duration_token": 1,
+          "duration_probability": 0.9710198865755131
+        },
+        {
+          "prediction_index": 7,
+          "elapsed_duration": 12,
+          "progress": 0.05263157894736842,
+          "chord_class": 63,
+          "chord_token": 63,
+          "chord_probability": 0.04643960919866675,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.027809188171977733
+        },
+        {
+          "prediction_index": 8,
+          "elapsed_duration": 20,
+          "progress": 0.08771929824561403,
+          "chord_class": 18,
+          "chord_token": 18,
+          "chord_probability": 0.744225128660827,
+          "eos": false,
+          "duration_class": 5,
+          "duration_token": 6,
+          "duration_probability": 0.08211469232925142
+        },
+        {
+          "prediction_index": 9,
+          "elapsed_duration": 26,
+          "progress": 0.11403508771929824,
+          "chord_class": 21,
+          "chord_token": 21,
+          "chord_probability": 0.16441309942225682,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9137906135250718
+        },
+        {
+          "prediction_index": 10,
+          "elapsed_duration": 28,
+          "progress": 0.12280701754385964,
+          "chord_class": 51,
+          "chord_token": 51,
+          "chord_probability": 0.5738532456487309,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.38837465700750634
+        },
+        {
+          "prediction_index": 11,
+          "elapsed_duration": 30,
+          "progress": 0.13157894736842105,
+          "chord_class": 5,
+          "chord_token": 5,
+          "chord_probability": 0.12834674554422876,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9816976264840486
+        },
+        {
+          "prediction_index": 12,
+          "elapsed_duration": 32,
+          "progress": 0.14035087719298245,
+          "chord_class": 31,
+          "chord_token": 31,
+          "chord_probability": 0.19188551490144912,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.4542052627253684
+        },
+        {
+          "prediction_index": 13,
+          "elapsed_duration": 36,
+          "progress": 0.15789473684210525,
+          "chord_class": 66,
+          "chord_token": 66,
+          "chord_probability": 0.07271458069567817,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.7112344514727847
+        },
+        {
+          "prediction_index": 14,
+          "elapsed_duration": 40,
+          "progress": 0.17543859649122806,
+          "chord_class": 18,
+          "chord_token": 18,
+          "chord_probability": 0.9007333959629171,
+          "eos": false,
+          "duration_class": 9,
+          "duration_token": 10,
+          "duration_probability": 0.09625882531187138
+        },
+        {
+          "prediction_index": 15,
+          "elapsed_duration": 52,
+          "progress": 0.22807017543859648,
+          "chord_class": 33,
+          "chord_token": 33,
+          "chord_probability": 0.03408155344954768,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.24609698005916245
+        },
+        {
+          "prediction_index": 16,
+          "elapsed_duration": 54,
+          "progress": 0.23684210526315788,
+          "chord_class": 18,
+          "chord_token": 18,
+          "chord_probability": 0.004656581070449853,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.7312296495506847
+        },
+        {
+          "prediction_index": 17,
+          "elapsed_duration": 56,
+          "progress": 0.24561403508771928,
+          "chord_class": 33,
+          "chord_token": 33,
+          "chord_probability": 0.0702473732725963,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.6098225492461018
+        },
+        {
+          "prediction_index": 18,
+          "elapsed_duration": 60,
+          "progress": 0.2631578947368421,
+          "chord_class": 63,
+          "chord_token": 63,
+          "chord_probability": 0.880666813396261,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5808555286246104
+        },
+        {
+          "prediction_index": 19,
+          "elapsed_duration": 64,
+          "progress": 0.2807017543859649,
+          "chord_class": 45,
+          "chord_token": 45,
+          "chord_probability": 0.043395234902083205,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.30266637827541976
+        },
+        {
+          "prediction_index": 20,
+          "elapsed_duration": 66,
+          "progress": 0.2894736842105263,
+          "chord_class": 59,
+          "chord_token": 59,
+          "chord_probability": 0.07547664126748663,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9205734305355078
+        },
+        {
+          "prediction_index": 21,
+          "elapsed_duration": 68,
+          "progress": 0.2982456140350877,
+          "chord_class": 12,
+          "chord_token": 12,
+          "chord_probability": 0.008747688007120035,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.45051145742321086
+        },
+        {
+          "prediction_index": 22,
+          "elapsed_duration": 70,
+          "progress": 0.30701754385964913,
+          "chord_class": 45,
+          "chord_token": 45,
+          "chord_probability": 0.3584493200280873,
+          "eos": false,
+          "duration_class": 5,
+          "duration_token": 6,
+          "duration_probability": 0.5124415045807663
+        },
+        {
+          "prediction_index": 23,
+          "elapsed_duration": 76,
+          "progress": 0.3333333333333333,
+          "chord_class": 61,
+          "chord_token": 61,
+          "chord_probability": 0.05372681981250407,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.2506782790288729
+        },
+        {
+          "prediction_index": 24,
+          "elapsed_duration": 80,
+          "progress": 0.3508771929824561,
+          "chord_class": 12,
+          "chord_token": 12,
+          "chord_probability": 0.6186897191832095,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.23001326816933587
+        },
+        {
+          "prediction_index": 25,
+          "elapsed_duration": 84,
+          "progress": 0.3684210526315789,
+          "chord_class": 45,
+          "chord_token": 45,
+          "chord_probability": 0.5879842171412271,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5903336179605019
+        },
+        {
+          "prediction_index": 26,
+          "elapsed_duration": 88,
+          "progress": 0.38596491228070173,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.08876239740302294,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.5006791818246835
+        },
+        {
+          "prediction_index": 27,
+          "elapsed_duration": 90,
+          "progress": 0.39473684210526316,
+          "chord_class": 59,
+          "chord_token": 59,
+          "chord_probability": 0.2773628075862493,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9530171032227749
+        },
+        {
+          "prediction_index": 28,
+          "elapsed_duration": 92,
+          "progress": 0.40350877192982454,
+          "chord_class": 63,
+          "chord_token": 63,
+          "chord_probability": 0.6702999774208179,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.4810662760992534
+        },
+        {
+          "prediction_index": 29,
+          "elapsed_duration": 96,
+          "progress": 0.42105263157894735,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.04332094111706203,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5194835585852501
+        },
+        {
+          "prediction_index": 30,
+          "elapsed_duration": 100,
+          "progress": 0.43859649122807015,
+          "chord_class": 31,
+          "chord_token": 31,
+          "chord_probability": 0.03193273693077347,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.6203808628536378
+        },
+        {
+          "prediction_index": 31,
+          "elapsed_duration": 102,
+          "progress": 0.4473684210526316,
+          "chord_class": 35,
+          "chord_token": 35,
+          "chord_probability": 0.14964509383091074,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.97890098007965
+        },
+        {
+          "prediction_index": 32,
+          "elapsed_duration": 104,
+          "progress": 0.45614035087719296,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.4867752995422582,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.32912768671152776
+        },
+        {
+          "prediction_index": 33,
+          "elapsed_duration": 106,
+          "progress": 0.4649122807017544,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.8797938020991347,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9912252223920218
+        },
+        {
+          "prediction_index": 34,
+          "elapsed_duration": 108,
+          "progress": 0.47368421052631576,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.7957072533836964,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.10841481679927313
+        },
+        {
+          "prediction_index": 35,
+          "elapsed_duration": 116,
+          "progress": 0.5087719298245614,
+          "chord_class": 51,
+          "chord_token": 51,
+          "chord_probability": 0.037313206675261064,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.5363105364659366
+        },
+        {
+          "prediction_index": 36,
+          "elapsed_duration": 118,
+          "progress": 0.5175438596491229,
+          "chord_class": 5,
+          "chord_token": 5,
+          "chord_probability": 0.045360640391726985,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9929724612008928
+        },
+        {
+          "prediction_index": 37,
+          "elapsed_duration": 120,
+          "progress": 0.5263157894736842,
+          "chord_class": 17,
+          "chord_token": 17,
+          "chord_probability": 0.2719912180414824,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.684212220776686
+        },
+        {
+          "prediction_index": 38,
+          "elapsed_duration": 122,
+          "progress": 0.5350877192982456,
+          "chord_class": 75,
+          "chord_token": 75,
+          "chord_probability": 0.06330906060726044,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.013538601914070298
+        },
+        {
+          "prediction_index": 39,
+          "elapsed_duration": 126,
+          "progress": 0.5526315789473685,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.7650086037687261,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.25744772520197584
+        },
+        {
+          "prediction_index": 40,
+          "elapsed_duration": 130,
+          "progress": 0.5701754385964912,
+          "chord_class": 17,
+          "chord_token": 17,
+          "chord_probability": 0.25252955370365765,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.7642119597124168
+        },
+        {
+          "prediction_index": 41,
+          "elapsed_duration": 132,
+          "progress": 0.5789473684210527,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.5574180911971488,
+          "eos": false,
+          "duration_class": 0,
+          "duration_token": 1,
+          "duration_probability": 0.4261134771494297
+        },
+        {
+          "prediction_index": 42,
+          "elapsed_duration": 133,
+          "progress": 0.5833333333333334,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.8345920279644792,
+          "eos": false,
+          "duration_class": 0,
+          "duration_token": 1,
+          "duration_probability": 0.9970533846248694
+        },
+        {
+          "prediction_index": 43,
+          "elapsed_duration": 134,
+          "progress": 0.5877192982456141,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.38582944588410517,
+          "eos": false,
+          "duration_class": 12,
+          "duration_token": 13,
+          "duration_probability": 0.1287658072485588
+        },
+        {
+          "prediction_index": 44,
+          "elapsed_duration": 150,
+          "progress": 0.6578947368421053,
+          "chord_class": 76,
+          "chord_token": 77,
+          "chord_probability": 0.2245086793794656,
+          "eos": true
+        }
+      ],
+      "termination_reason": "eos",
+      "generation_config": {
+        "seed": 123,
+        "chord_temperature": 1.0,
+        "duration_temperature": 1.0,
+        "max_events": 512
+      }
+    },
+    "minor_8675309": {
+      "events": [
+        {
+          "chord_index": 1,
+          "duration": 8,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 21,
+          "duration": 2,
+          "chord_label": "ii m7"
+        },
+        {
+          "chord_index": 80,
+          "duration": 2,
+          "chord_label": "\u266dVII"
+        },
+        {
+          "chord_index": 43,
+          "duration": 2,
+          "chord_label": "IV 7"
+        },
+        {
+          "chord_index": 55,
+          "duration": 2,
+          "chord_label": "\u266fiv\u00b0 dim7"
+        },
+        {
+          "chord_index": 59,
+          "duration": 4,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 1,
+          "duration": 4,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 45,
+          "duration": 6,
+          "chord_label": "iv m7"
+        },
+        {
+          "chord_index": 18,
+          "duration": 1,
+          "chord_label": "ii\u00b0"
+        },
+        {
+          "chord_index": 41,
+          "duration": 1,
+          "chord_label": "iv"
+        },
+        {
+          "chord_index": 95,
+          "duration": 3,
+          "chord_label": "vii\u00b0 dim7"
+        },
+        {
+          "chord_index": 56,
+          "duration": 1,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 59,
+          "duration": 4,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 41,
+          "duration": 2,
+          "chord_label": "iv"
+        },
+        {
+          "chord_index": 57,
+          "duration": 2,
+          "chord_label": "v"
+        },
+        {
+          "chord_index": 43,
+          "duration": 4,
+          "chord_label": "IV 7"
+        },
+        {
+          "chord_index": 80,
+          "duration": 4,
+          "chord_label": "\u266dVII"
+        },
+        {
+          "chord_index": 64,
+          "duration": 4,
+          "chord_label": "\u266dVI"
+        },
+        {
+          "chord_index": 24,
+          "duration": 4,
+          "chord_label": "\u266dIII"
+        },
+        {
+          "chord_index": 5,
+          "duration": 4,
+          "chord_label": "i m7"
+        },
+        {
+          "chord_index": 41,
+          "duration": 2,
+          "chord_label": "iv"
+        },
+        {
+          "chord_index": 83,
+          "duration": 2,
+          "chord_label": "\u266dVII 7"
+        },
+        {
+          "chord_index": 1,
+          "duration": 2,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 5,
+          "duration": 2,
+          "chord_label": "i m7"
+        },
+        {
+          "chord_index": 22,
+          "duration": 4,
+          "chord_label": "ii\u00b0 half7"
+        },
+        {
+          "chord_index": 80,
+          "duration": 2,
+          "chord_label": "\u266dVII"
+        },
+        {
+          "chord_index": 61,
+          "duration": 2,
+          "chord_label": "v m7"
+        },
+        {
+          "chord_index": 18,
+          "duration": 2,
+          "chord_label": "ii\u00b0"
+        },
+        {
+          "chord_index": 34,
+          "duration": 2,
+          "chord_label": "iii\u00b0"
+        },
+        {
+          "chord_index": 41,
+          "duration": 2,
+          "chord_label": "iv"
+        },
+        {
+          "chord_index": 45,
+          "duration": 2,
+          "chord_label": "iv m7"
+        },
+        {
+          "chord_index": 1,
+          "duration": 4,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 56,
+          "duration": 4,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 1,
+          "duration": 2,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 5,
+          "duration": 2,
+          "chord_label": "i m7"
+        },
+        {
+          "chord_index": 41,
+          "duration": 4,
+          "chord_label": "iv"
+        },
+        {
+          "chord_index": 59,
+          "duration": 4,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 1,
+          "duration": 4,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 22,
+          "duration": 4,
+          "chord_label": "ii\u00b0 half7"
+        },
+        {
+          "chord_index": 56,
+          "duration": 4,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 1,
+          "duration": 8,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 59,
+          "duration": 4,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 1,
+          "duration": 2,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 5,
+          "duration": 2,
+          "chord_label": "i m7"
+        },
+        {
+          "chord_index": 16,
+          "duration": 4,
+          "chord_label": "II"
+        },
+        {
+          "chord_index": 57,
+          "duration": 4,
+          "chord_label": "v"
+        },
+        {
+          "chord_index": 16,
+          "duration": 2,
+          "chord_label": "II"
+        },
+        {
+          "chord_index": 19,
+          "duration": 2,
+          "chord_label": "II 7"
+        },
+        {
+          "chord_index": 57,
+          "duration": 10,
+          "chord_label": "v"
+        },
+        {
+          "chord_index": 34,
+          "duration": 2,
+          "chord_label": "iii\u00b0"
+        },
+        {
+          "chord_index": 40,
+          "duration": 4,
+          "chord_label": "IV"
+        },
+        {
+          "chord_index": 80,
+          "duration": 12,
+          "chord_label": "\u266dVII"
+        },
+        {
+          "chord_index": 50,
+          "duration": 4,
+          "chord_label": "\u266fiv\u00b0"
+        },
+        {
+          "chord_index": 57,
+          "duration": 4,
+          "chord_label": "v"
+        },
+        {
+          "chord_index": 91,
+          "duration": 2,
+          "chord_label": "VII 7"
+        },
+        {
+          "chord_index": 1,
+          "duration": 2,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 22,
+          "duration": 4,
+          "chord_label": "ii\u00b0 half7"
+        },
+        {
+          "chord_index": 56,
+          "duration": 4,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 0,
+          "duration": 8,
+          "chord_label": "I"
+        }
+      ],
+      "trace": [
+        {
+          "prediction_index": 1,
+          "elapsed_duration": 0,
+          "progress": 0.0,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.7696020857353084,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.243244418064883
+        },
+        {
+          "prediction_index": 2,
+          "elapsed_duration": 8,
+          "progress": 0.03508771929824561,
+          "chord_class": 16,
+          "chord_token": 16,
+          "chord_probability": 0.0007748780361341867,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.2545319548167588
+        },
+        {
+          "prediction_index": 3,
+          "elapsed_duration": 10,
+          "progress": 0.043859649122807015,
+          "chord_class": 63,
+          "chord_token": 63,
+          "chord_probability": 0.0361130179388154,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9405536081972453
+        },
+        {
+          "prediction_index": 4,
+          "elapsed_duration": 12,
+          "progress": 0.05263157894736842,
+          "chord_class": 33,
+          "chord_token": 33,
+          "chord_probability": 0.026125351400580105,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.584003589728582
+        },
+        {
+          "prediction_index": 5,
+          "elapsed_duration": 14,
+          "progress": 0.06140350877192982,
+          "chord_class": 43,
+          "chord_token": 43,
+          "chord_probability": 0.011614787941347238,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9811211530871397
+        },
+        {
+          "prediction_index": 6,
+          "elapsed_duration": 16,
+          "progress": 0.07017543859649122,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.049020073446440035,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.8452974104245623
+        },
+        {
+          "prediction_index": 7,
+          "elapsed_duration": 20,
+          "progress": 0.08771929824561403,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.8081753849955263,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5489748802457719
+        },
+        {
+          "prediction_index": 8,
+          "elapsed_duration": 24,
+          "progress": 0.10526315789473684,
+          "chord_class": 35,
+          "chord_token": 35,
+          "chord_probability": 0.020981398788644537,
+          "eos": false,
+          "duration_class": 5,
+          "duration_token": 6,
+          "duration_probability": 0.005998885459766274
+        },
+        {
+          "prediction_index": 9,
+          "elapsed_duration": 30,
+          "progress": 0.13157894736842105,
+          "chord_class": 14,
+          "chord_token": 14,
+          "chord_probability": 0.30294561528146097,
+          "eos": false,
+          "duration_class": 0,
+          "duration_token": 1,
+          "duration_probability": 0.4743561248785111
+        },
+        {
+          "prediction_index": 10,
+          "elapsed_duration": 31,
+          "progress": 0.13596491228070176,
+          "chord_class": 31,
+          "chord_token": 31,
+          "chord_probability": 0.3811158645898799,
+          "eos": false,
+          "duration_class": 0,
+          "duration_token": 1,
+          "duration_probability": 0.9891933760214707
+        },
+        {
+          "prediction_index": 11,
+          "elapsed_duration": 32,
+          "progress": 0.14035087719298245,
+          "chord_class": 75,
+          "chord_token": 75,
+          "chord_probability": 0.011365620795083454,
+          "eos": false,
+          "duration_class": 2,
+          "duration_token": 3,
+          "duration_probability": 0.2587920934749883
+        },
+        {
+          "prediction_index": 12,
+          "elapsed_duration": 35,
+          "progress": 0.15350877192982457,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.033523865217740964,
+          "eos": false,
+          "duration_class": 0,
+          "duration_token": 1,
+          "duration_probability": 0.9791825214287843
+        },
+        {
+          "prediction_index": 13,
+          "elapsed_duration": 36,
+          "progress": 0.15789473684210525,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.3534336241216106,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5944613357905604
+        },
+        {
+          "prediction_index": 14,
+          "elapsed_duration": 40,
+          "progress": 0.17543859649122806,
+          "chord_class": 31,
+          "chord_token": 31,
+          "chord_probability": 0.005806580870059047,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.5403386789145566
+        },
+        {
+          "prediction_index": 15,
+          "elapsed_duration": 42,
+          "progress": 0.18421052631578946,
+          "chord_class": 45,
+          "chord_token": 45,
+          "chord_probability": 0.028272071713354417,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9262537908196421
+        },
+        {
+          "prediction_index": 16,
+          "elapsed_duration": 44,
+          "progress": 0.19298245614035087,
+          "chord_class": 33,
+          "chord_token": 33,
+          "chord_probability": 0.005610894095356727,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.47152433069489663
+        },
+        {
+          "prediction_index": 17,
+          "elapsed_duration": 48,
+          "progress": 0.21052631578947367,
+          "chord_class": 63,
+          "chord_token": 63,
+          "chord_probability": 0.6038730796727151,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5802375813092976
+        },
+        {
+          "prediction_index": 18,
+          "elapsed_duration": 52,
+          "progress": 0.22807017543859648,
+          "chord_class": 51,
+          "chord_token": 51,
+          "chord_probability": 0.013623622031566925,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.36277756824392554
+        },
+        {
+          "prediction_index": 19,
+          "elapsed_duration": 56,
+          "progress": 0.24561403508771928,
+          "chord_class": 18,
+          "chord_token": 18,
+          "chord_probability": 0.155517320725872,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.6284237454687339
+        },
+        {
+          "prediction_index": 20,
+          "elapsed_duration": 60,
+          "progress": 0.2631578947368421,
+          "chord_class": 5,
+          "chord_token": 5,
+          "chord_probability": 0.011467302204954942,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.7521509282782719
+        },
+        {
+          "prediction_index": 21,
+          "elapsed_duration": 64,
+          "progress": 0.2807017543859649,
+          "chord_class": 31,
+          "chord_token": 31,
+          "chord_probability": 0.13740412054693715,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.33775217502879623
+        },
+        {
+          "prediction_index": 22,
+          "elapsed_duration": 66,
+          "progress": 0.2894736842105263,
+          "chord_class": 66,
+          "chord_token": 66,
+          "chord_probability": 0.014445807791470297,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9799699415843648
+        },
+        {
+          "prediction_index": 23,
+          "elapsed_duration": 68,
+          "progress": 0.2982456140350877,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.6592861033232491,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.5294463984581956
+        },
+        {
+          "prediction_index": 24,
+          "elapsed_duration": 70,
+          "progress": 0.30701754385964913,
+          "chord_class": 5,
+          "chord_token": 5,
+          "chord_probability": 0.22484160360987443,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9785163614158875
+        },
+        {
+          "prediction_index": 25,
+          "elapsed_duration": 72,
+          "progress": 0.3157894736842105,
+          "chord_class": 17,
+          "chord_token": 17,
+          "chord_probability": 0.11369532341459417,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.3625330671051819
+        },
+        {
+          "prediction_index": 26,
+          "elapsed_duration": 76,
+          "progress": 0.3333333333333333,
+          "chord_class": 63,
+          "chord_token": 63,
+          "chord_probability": 0.033089206922367095,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.45037575717020206
+        },
+        {
+          "prediction_index": 27,
+          "elapsed_duration": 78,
+          "progress": 0.34210526315789475,
+          "chord_class": 49,
+          "chord_token": 49,
+          "chord_probability": 0.032462784169569096,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9167915923925745
+        },
+        {
+          "prediction_index": 28,
+          "elapsed_duration": 80,
+          "progress": 0.3508771929824561,
+          "chord_class": 14,
+          "chord_token": 14,
+          "chord_probability": 0.011779859108893159,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.5786936895292055
+        },
+        {
+          "prediction_index": 29,
+          "elapsed_duration": 82,
+          "progress": 0.35964912280701755,
+          "chord_class": 26,
+          "chord_token": 26,
+          "chord_probability": 0.021329776457342596,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9817574207748986
+        },
+        {
+          "prediction_index": 30,
+          "elapsed_duration": 84,
+          "progress": 0.3684210526315789,
+          "chord_class": 31,
+          "chord_token": 31,
+          "chord_probability": 0.6335582916788634,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.46017728144025905
+        },
+        {
+          "prediction_index": 31,
+          "elapsed_duration": 86,
+          "progress": 0.37719298245614036,
+          "chord_class": 35,
+          "chord_token": 35,
+          "chord_probability": 0.21751683094172572,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9684479021442619
+        },
+        {
+          "prediction_index": 32,
+          "elapsed_duration": 88,
+          "progress": 0.38596491228070173,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.04044105726800588,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.6949344025521916
+        },
+        {
+          "prediction_index": 33,
+          "elapsed_duration": 92,
+          "progress": 0.40350877192982454,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.4490752406186188,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.31908391830912264
+        },
+        {
+          "prediction_index": 34,
+          "elapsed_duration": 96,
+          "progress": 0.42105263157894735,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.7659754718151869,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.32419793029652905
+        },
+        {
+          "prediction_index": 35,
+          "elapsed_duration": 98,
+          "progress": 0.4298245614035088,
+          "chord_class": 5,
+          "chord_token": 5,
+          "chord_probability": 0.44182212077192057,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9950572288122209
+        },
+        {
+          "prediction_index": 36,
+          "elapsed_duration": 100,
+          "progress": 0.43859649122807015,
+          "chord_class": 31,
+          "chord_token": 31,
+          "chord_probability": 0.23504098648888752,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.3571819477776086
+        },
+        {
+          "prediction_index": 37,
+          "elapsed_duration": 104,
+          "progress": 0.45614035087719296,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.055896680293414304,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.8762514019058885
+        },
+        {
+          "prediction_index": 38,
+          "elapsed_duration": 108,
+          "progress": 0.47368421052631576,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.7892011552550521,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.601011677566319
+        },
+        {
+          "prediction_index": 39,
+          "elapsed_duration": 112,
+          "progress": 0.49122807017543857,
+          "chord_class": 17,
+          "chord_token": 17,
+          "chord_probability": 0.2287278102248039,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.39925089861010987
+        },
+        {
+          "prediction_index": 40,
+          "elapsed_duration": 116,
+          "progress": 0.5087719298245614,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.9138802664778886,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.23221862569313267
+        },
+        {
+          "prediction_index": 41,
+          "elapsed_duration": 120,
+          "progress": 0.5263157894736842,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.5126897406191321,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.13924513181832396
+        },
+        {
+          "prediction_index": 42,
+          "elapsed_duration": 128,
+          "progress": 0.5614035087719298,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.06612209252366197,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.7895345932037414
+        },
+        {
+          "prediction_index": 43,
+          "elapsed_duration": 132,
+          "progress": 0.5789473684210527,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.8304988177724474,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.10666897565174924
+        },
+        {
+          "prediction_index": 44,
+          "elapsed_duration": 134,
+          "progress": 0.5877192982456141,
+          "chord_class": 5,
+          "chord_token": 5,
+          "chord_probability": 0.444173456657155,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9919171402037237
+        },
+        {
+          "prediction_index": 45,
+          "elapsed_duration": 136,
+          "progress": 0.5964912280701754,
+          "chord_class": 12,
+          "chord_token": 12,
+          "chord_probability": 0.015807362587400058,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.33337371948110617
+        },
+        {
+          "prediction_index": 46,
+          "elapsed_duration": 140,
+          "progress": 0.6140350877192983,
+          "chord_class": 45,
+          "chord_token": 45,
+          "chord_probability": 0.6121138266269006,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.6896735955454542
+        },
+        {
+          "prediction_index": 47,
+          "elapsed_duration": 144,
+          "progress": 0.631578947368421,
+          "chord_class": 12,
+          "chord_token": 12,
+          "chord_probability": 0.366449329755829,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.5043340994622204
+        },
+        {
+          "prediction_index": 48,
+          "elapsed_duration": 146,
+          "progress": 0.6403508771929824,
+          "chord_class": 15,
+          "chord_token": 15,
+          "chord_probability": 0.8465377833529931,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9750088750308906
+        },
+        {
+          "prediction_index": 49,
+          "elapsed_duration": 148,
+          "progress": 0.6491228070175439,
+          "chord_class": 45,
+          "chord_token": 45,
+          "chord_probability": 0.508350766446877,
+          "eos": false,
+          "duration_class": 8,
+          "duration_token": 9,
+          "duration_probability": 0.02823568649690761
+        },
+        {
+          "prediction_index": 50,
+          "elapsed_duration": 158,
+          "progress": 0.6929824561403509,
+          "chord_class": 26,
+          "chord_token": 26,
+          "chord_probability": 0.03206220684943066,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9563919571899127
+        },
+        {
+          "prediction_index": 51,
+          "elapsed_duration": 160,
+          "progress": 0.7017543859649122,
+          "chord_class": 30,
+          "chord_token": 30,
+          "chord_probability": 0.45683863370323163,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.421957996821171
+        },
+        {
+          "prediction_index": 52,
+          "elapsed_duration": 164,
+          "progress": 0.7192982456140351,
+          "chord_class": 63,
+          "chord_token": 63,
+          "chord_probability": 0.5820093330064173,
+          "eos": false,
+          "duration_class": 9,
+          "duration_token": 10,
+          "duration_probability": 0.02489753320871021
+        },
+        {
+          "prediction_index": 53,
+          "elapsed_duration": 176,
+          "progress": 0.7719298245614035,
+          "chord_class": 39,
+          "chord_token": 39,
+          "chord_probability": 0.005004523273529346,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.322185140166204
+        },
+        {
+          "prediction_index": 54,
+          "elapsed_duration": 180,
+          "progress": 0.7894736842105263,
+          "chord_class": 45,
+          "chord_token": 45,
+          "chord_probability": 0.7166421701548147,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.6064018842501981
+        },
+        {
+          "prediction_index": 55,
+          "elapsed_duration": 184,
+          "progress": 0.8070175438596491,
+          "chord_class": 72,
+          "chord_token": 72,
+          "chord_probability": 0.0003426802409617557,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.16210860779986366
+        },
+        {
+          "prediction_index": 56,
+          "elapsed_duration": 186,
+          "progress": 0.8157894736842105,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.2933865706911912,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9263932576472277
+        },
+        {
+          "prediction_index": 57,
+          "elapsed_duration": 188,
+          "progress": 0.8245614035087719,
+          "chord_class": 17,
+          "chord_token": 17,
+          "chord_probability": 0.4531683167504811,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5196655793324197
+        },
+        {
+          "prediction_index": 58,
+          "elapsed_duration": 192,
+          "progress": 0.8421052631578947,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.8811024862979108,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.22393921500700126
+        },
+        {
+          "prediction_index": 59,
+          "elapsed_duration": 196,
+          "progress": 0.8596491228070176,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.193669982621253,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.4770837915498626
+        },
+        {
+          "prediction_index": 60,
+          "elapsed_duration": 204,
+          "progress": 0.8947368421052632,
+          "chord_class": 76,
+          "chord_token": 77,
+          "chord_probability": 0.9476413740508726,
+          "eos": true
+        }
+      ],
+      "termination_reason": "eos",
+      "generation_config": {
+        "seed": 8675309,
+        "chord_temperature": 1.0,
+        "duration_temperature": 1.0,
+        "max_events": 512
+      }
+    }
+  },
+  "tonality": {
+    "major_123": {
+      "events": [
+        {
+          "chord_index": 1,
+          "duration": 4,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 56,
+          "duration": 4,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 0,
+          "duration": 4,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 40,
+          "duration": 2,
+          "chord_label": "IV"
+        },
+        {
+          "chord_index": 3,
+          "duration": 2,
+          "chord_label": "I 7"
+        },
+        {
+          "chord_index": 17,
+          "duration": 4,
+          "chord_label": "ii"
+        },
+        {
+          "chord_index": 90,
+          "duration": 2,
+          "chord_label": "vii\u00b0"
+        },
+        {
+          "chord_index": 59,
+          "duration": 6,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 0,
+          "duration": 8,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 56,
+          "duration": 8,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 59,
+          "duration": 4,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 0,
+          "duration": 4,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 56,
+          "duration": 4,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 0,
+          "duration": 8,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 40,
+          "duration": 4,
+          "chord_label": "IV"
+        },
+        {
+          "chord_index": 0,
+          "duration": 2,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 21,
+          "duration": 2,
+          "chord_label": "ii m7"
+        },
+        {
+          "chord_index": 0,
+          "duration": 8,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 40,
+          "duration": 1,
+          "chord_label": "IV"
+        },
+        {
+          "chord_index": 94,
+          "duration": 2,
+          "chord_label": "vii\u00b0 half7"
+        },
+        {
+          "chord_index": 0,
+          "duration": 2,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 73,
+          "duration": 2,
+          "chord_label": "vi"
+        },
+        {
+          "chord_index": 77,
+          "duration": 4,
+          "chord_label": "vi m7"
+        },
+        {
+          "chord_index": 3,
+          "duration": 4,
+          "chord_label": "I 7"
+        },
+        {
+          "chord_index": 40,
+          "duration": 2,
+          "chord_label": "IV"
+        },
+        {
+          "chord_index": 73,
+          "duration": 2,
+          "chord_label": "vi"
+        },
+        {
+          "chord_index": 21,
+          "duration": 4,
+          "chord_label": "ii m7"
+        },
+        {
+          "chord_index": 56,
+          "duration": 4,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 0,
+          "duration": 8,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 73,
+          "duration": 2,
+          "chord_label": "vi"
+        },
+        {
+          "chord_index": 40,
+          "duration": 2,
+          "chord_label": "IV"
+        },
+        {
+          "chord_index": 0,
+          "duration": 2,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 21,
+          "duration": 2,
+          "chord_label": "ii m7"
+        },
+        {
+          "chord_index": 56,
+          "duration": 2,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 59,
+          "duration": 2,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 0,
+          "duration": 8,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 40,
+          "duration": 6,
+          "chord_label": "IV"
+        },
+        {
+          "chord_index": 90,
+          "duration": 4,
+          "chord_label": "vii\u00b0"
+        },
+        {
+          "chord_index": 73,
+          "duration": 2,
+          "chord_label": "vi"
+        },
+        {
+          "chord_index": 40,
+          "duration": 2,
+          "chord_label": "IV"
+        },
+        {
+          "chord_index": 56,
+          "duration": 2,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 0,
+          "duration": 4,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 40,
+          "duration": 4,
+          "chord_label": "IV"
+        },
+        {
+          "chord_index": 16,
+          "duration": 4,
+          "chord_label": "II"
+        },
+        {
+          "chord_index": 56,
+          "duration": 8,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 0,
+          "duration": 4,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 56,
+          "duration": 2,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 0,
+          "duration": 2,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 77,
+          "duration": 4,
+          "chord_label": "vi m7"
+        },
+        {
+          "chord_index": 16,
+          "duration": 2,
+          "chord_label": "II"
+        },
+        {
+          "chord_index": 19,
+          "duration": 2,
+          "chord_label": "II 7"
+        },
+        {
+          "chord_index": 56,
+          "duration": 12,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 0,
+          "duration": 4,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 17,
+          "duration": 2,
+          "chord_label": "ii"
+        },
+        {
+          "chord_index": 90,
+          "duration": 2,
+          "chord_label": "vii\u00b0"
+        },
+        {
+          "chord_index": 73,
+          "duration": 2,
+          "chord_label": "vi"
+        },
+        {
+          "chord_index": 0,
+          "duration": 2,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 21,
+          "duration": 2,
+          "chord_label": "ii m7"
+        },
+        {
+          "chord_index": 90,
+          "duration": 1,
+          "chord_label": "vii\u00b0"
+        },
+        {
+          "chord_index": 17,
+          "duration": 1,
+          "chord_label": "ii"
+        },
+        {
+          "chord_index": 56,
+          "duration": 3,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 59,
+          "duration": 1,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 0,
+          "duration": 6,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 3,
+          "duration": 2,
+          "chord_label": "I 7"
+        },
+        {
+          "chord_index": 40,
+          "duration": 2,
+          "chord_label": "IV"
+        },
+        {
+          "chord_index": 90,
+          "duration": 2,
+          "chord_label": "vii\u00b0"
+        },
+        {
+          "chord_index": 0,
+          "duration": 4,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 56,
+          "duration": 4,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 0,
+          "duration": 6,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 73,
+          "duration": 2,
+          "chord_label": "vi"
+        },
+        {
+          "chord_index": 38,
+          "duration": 2,
+          "chord_label": "iii\u00b0 half7"
+        },
+        {
+          "chord_index": 3,
+          "duration": 2,
+          "chord_label": "I 7"
+        },
+        {
+          "chord_index": 72,
+          "duration": 2,
+          "chord_label": "VI"
+        },
+        {
+          "chord_index": 17,
+          "duration": 2,
+          "chord_label": "ii"
+        },
+        {
+          "chord_index": 0,
+          "duration": 4,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 40,
+          "duration": 4,
+          "chord_label": "IV"
+        },
+        {
+          "chord_index": 0,
+          "duration": 4,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 56,
+          "duration": 2,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 59,
+          "duration": 2,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 0,
+          "duration": 4,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 56,
+          "duration": 2,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 59,
+          "duration": 2,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 0,
+          "duration": 8,
+          "chord_label": "I"
+        }
+      ],
+      "trace": [
+        {
+          "prediction_index": 1,
+          "elapsed_duration": 0,
+          "progress": 0.0,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.03765950273309775,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.51665448755812
+        },
+        {
+          "prediction_index": 2,
+          "elapsed_duration": 4,
+          "progress": 0.017543859649122806,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.5840199658300304,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5590650513001862
+        },
+        {
+          "prediction_index": 3,
+          "elapsed_duration": 8,
+          "progress": 0.03508771929824561,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.2676849638891869,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5012364632605967
+        },
+        {
+          "prediction_index": 4,
+          "elapsed_duration": 12,
+          "progress": 0.05263157894736842,
+          "chord_class": 30,
+          "chord_token": 30,
+          "chord_probability": 0.4745251161430433,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.24544047530997945
+        },
+        {
+          "prediction_index": 5,
+          "elapsed_duration": 14,
+          "progress": 0.06140350877192982,
+          "chord_class": 3,
+          "chord_token": 3,
+          "chord_probability": 0.008826629882434413,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9557641887764682
+        },
+        {
+          "prediction_index": 6,
+          "elapsed_duration": 16,
+          "progress": 0.07017543859649122,
+          "chord_class": 13,
+          "chord_token": 13,
+          "chord_probability": 0.09307060321883466,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.77890582534799
+        },
+        {
+          "prediction_index": 7,
+          "elapsed_duration": 20,
+          "progress": 0.08771929824561403,
+          "chord_class": 71,
+          "chord_token": 71,
+          "chord_probability": 0.12216082605336376,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.7302917033099459
+        },
+        {
+          "prediction_index": 8,
+          "elapsed_duration": 22,
+          "progress": 0.09649122807017543,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.34880666460660864,
+          "eos": false,
+          "duration_class": 5,
+          "duration_token": 6,
+          "duration_probability": 0.006789652762489994
+        },
+        {
+          "prediction_index": 9,
+          "elapsed_duration": 28,
+          "progress": 0.12280701754385964,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.9736709513769293,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.22414012242176384
+        },
+        {
+          "prediction_index": 10,
+          "elapsed_duration": 36,
+          "progress": 0.15789473684210525,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.4906102185464405,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.11077948379946319
+        },
+        {
+          "prediction_index": 11,
+          "elapsed_duration": 44,
+          "progress": 0.19298245614035087,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.06619340472733994,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.8876884866174437
+        },
+        {
+          "prediction_index": 12,
+          "elapsed_duration": 48,
+          "progress": 0.21052631578947367,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.7847678028341006,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5708680178115214
+        },
+        {
+          "prediction_index": 13,
+          "elapsed_duration": 52,
+          "progress": 0.22807017543859648,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.42600134451860966,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5283596158003073
+        },
+        {
+          "prediction_index": 14,
+          "elapsed_duration": 56,
+          "progress": 0.24561403508771928,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.6338678063764368,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.2051887942098667
+        },
+        {
+          "prediction_index": 15,
+          "elapsed_duration": 64,
+          "progress": 0.2807017543859649,
+          "chord_class": 30,
+          "chord_token": 30,
+          "chord_probability": 0.26966754444248475,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.770772090430911
+        },
+        {
+          "prediction_index": 16,
+          "elapsed_duration": 68,
+          "progress": 0.2982456140350877,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.3263530678810836,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.10473438048669399
+        },
+        {
+          "prediction_index": 17,
+          "elapsed_duration": 70,
+          "progress": 0.30701754385964913,
+          "chord_class": 16,
+          "chord_token": 16,
+          "chord_probability": 0.20473251655819902,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.8787548686098721
+        },
+        {
+          "prediction_index": 18,
+          "elapsed_duration": 72,
+          "progress": 0.3157894736842105,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.6783361886184692,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.40835077555286114
+        },
+        {
+          "prediction_index": 19,
+          "elapsed_duration": 80,
+          "progress": 0.3508771929824561,
+          "chord_class": 30,
+          "chord_token": 30,
+          "chord_probability": 0.293856715024375,
+          "eos": false,
+          "duration_class": 0,
+          "duration_token": 1,
+          "duration_probability": 0.023473943907042952
+        },
+        {
+          "prediction_index": 20,
+          "elapsed_duration": 81,
+          "progress": 0.35526315789473684,
+          "chord_class": 74,
+          "chord_token": 74,
+          "chord_probability": 0.051143057292823924,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.718098044376916
+        },
+        {
+          "prediction_index": 21,
+          "elapsed_duration": 83,
+          "progress": 0.36403508771929827,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.6674363544812725,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.807107147192176
+        },
+        {
+          "prediction_index": 22,
+          "elapsed_duration": 85,
+          "progress": 0.37280701754385964,
+          "chord_class": 58,
+          "chord_token": 58,
+          "chord_probability": 0.03208044049502039,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.848836831912494
+        },
+        {
+          "prediction_index": 23,
+          "elapsed_duration": 87,
+          "progress": 0.3815789473684211,
+          "chord_class": 61,
+          "chord_token": 61,
+          "chord_probability": 0.0905987205744729,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.08165383886791198
+        },
+        {
+          "prediction_index": 24,
+          "elapsed_duration": 91,
+          "progress": 0.3991228070175439,
+          "chord_class": 3,
+          "chord_token": 3,
+          "chord_probability": 0.01739573208643221,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.6360874349518054
+        },
+        {
+          "prediction_index": 25,
+          "elapsed_duration": 95,
+          "progress": 0.4166666666666667,
+          "chord_class": 30,
+          "chord_token": 30,
+          "chord_probability": 0.6740274051311634,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.28477626392784133
+        },
+        {
+          "prediction_index": 26,
+          "elapsed_duration": 97,
+          "progress": 0.42543859649122806,
+          "chord_class": 58,
+          "chord_token": 58,
+          "chord_probability": 0.06349326377320871,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9007361293715611
+        },
+        {
+          "prediction_index": 27,
+          "elapsed_duration": 99,
+          "progress": 0.4342105263157895,
+          "chord_class": 16,
+          "chord_token": 16,
+          "chord_probability": 0.06940066210021159,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5888823620852153
+        },
+        {
+          "prediction_index": 28,
+          "elapsed_duration": 103,
+          "progress": 0.4517543859649123,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.6736760502832787,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.3527061624545186
+        },
+        {
+          "prediction_index": 29,
+          "elapsed_duration": 107,
+          "progress": 0.4692982456140351,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.9079997232097899,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.4145122457227423
+        },
+        {
+          "prediction_index": 30,
+          "elapsed_duration": 115,
+          "progress": 0.5043859649122807,
+          "chord_class": 58,
+          "chord_token": 58,
+          "chord_probability": 0.08364835310692414,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.5140587653787281
+        },
+        {
+          "prediction_index": 31,
+          "elapsed_duration": 117,
+          "progress": 0.5131578947368421,
+          "chord_class": 30,
+          "chord_token": 30,
+          "chord_probability": 0.1499248913654107,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9887728216662888
+        },
+        {
+          "prediction_index": 32,
+          "elapsed_duration": 119,
+          "progress": 0.5219298245614035,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.31973089122229265,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.186226463221114
+        },
+        {
+          "prediction_index": 33,
+          "elapsed_duration": 121,
+          "progress": 0.5307017543859649,
+          "chord_class": 16,
+          "chord_token": 16,
+          "chord_probability": 0.2431029649868585,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9022432610426934
+        },
+        {
+          "prediction_index": 34,
+          "elapsed_duration": 123,
+          "progress": 0.5394736842105263,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.27123418955365397,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.6057026519107707
+        },
+        {
+          "prediction_index": 35,
+          "elapsed_duration": 125,
+          "progress": 0.5482456140350878,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.7092607798975312,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9937373629883117
+        },
+        {
+          "prediction_index": 36,
+          "elapsed_duration": 127,
+          "progress": 0.5570175438596491,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.951802461771506,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.3581965897362232
+        },
+        {
+          "prediction_index": 37,
+          "elapsed_duration": 135,
+          "progress": 0.5921052631578947,
+          "chord_class": 30,
+          "chord_token": 30,
+          "chord_probability": 0.14110334106784997,
+          "eos": false,
+          "duration_class": 5,
+          "duration_token": 6,
+          "duration_probability": 0.011161232109051821
+        },
+        {
+          "prediction_index": 38,
+          "elapsed_duration": 141,
+          "progress": 0.618421052631579,
+          "chord_class": 71,
+          "chord_token": 71,
+          "chord_probability": 0.13794510641805752,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.008535096880058076
+        },
+        {
+          "prediction_index": 39,
+          "elapsed_duration": 145,
+          "progress": 0.6359649122807017,
+          "chord_class": 58,
+          "chord_token": 58,
+          "chord_probability": 0.109510028782857,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.7997282542752837
+        },
+        {
+          "prediction_index": 40,
+          "elapsed_duration": 147,
+          "progress": 0.6447368421052632,
+          "chord_class": 30,
+          "chord_token": 30,
+          "chord_probability": 0.07331662472741941,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.5501252152874573
+        },
+        {
+          "prediction_index": 41,
+          "elapsed_duration": 149,
+          "progress": 0.6535087719298246,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.13602966349643525,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9454878922799564
+        },
+        {
+          "prediction_index": 42,
+          "elapsed_duration": 151,
+          "progress": 0.6622807017543859,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.8152191520490436,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.48724515808835867
+        },
+        {
+          "prediction_index": 43,
+          "elapsed_duration": 155,
+          "progress": 0.6798245614035088,
+          "chord_class": 30,
+          "chord_token": 30,
+          "chord_probability": 0.16051300445080788,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.6148785506918636
+        },
+        {
+          "prediction_index": 44,
+          "elapsed_duration": 159,
+          "progress": 0.6973684210526315,
+          "chord_class": 12,
+          "chord_token": 12,
+          "chord_probability": 0.01182743788456011,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.4221358965979029
+        },
+        {
+          "prediction_index": 45,
+          "elapsed_duration": 163,
+          "progress": 0.7149122807017544,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.623540740903653,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.19778161055893945
+        },
+        {
+          "prediction_index": 46,
+          "elapsed_duration": 171,
+          "progress": 0.75,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.6855314057203102,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.45800788709948875
+        },
+        {
+          "prediction_index": 47,
+          "elapsed_duration": 175,
+          "progress": 0.7675438596491229,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.2756439640417921,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.3892397657085409
+        },
+        {
+          "prediction_index": 48,
+          "elapsed_duration": 177,
+          "progress": 0.7763157894736842,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.017668475770542473,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.879128504769131
+        },
+        {
+          "prediction_index": 49,
+          "elapsed_duration": 179,
+          "progress": 0.7850877192982456,
+          "chord_class": 61,
+          "chord_token": 61,
+          "chord_probability": 0.04288016649299027,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.4934908141321002
+        },
+        {
+          "prediction_index": 50,
+          "elapsed_duration": 183,
+          "progress": 0.8026315789473685,
+          "chord_class": 12,
+          "chord_token": 12,
+          "chord_probability": 0.31673999555827653,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.685844120889259
+        },
+        {
+          "prediction_index": 51,
+          "elapsed_duration": 185,
+          "progress": 0.8114035087719298,
+          "chord_class": 15,
+          "chord_token": 15,
+          "chord_probability": 0.7620213625068736,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9656372724828476
+        },
+        {
+          "prediction_index": 52,
+          "elapsed_duration": 187,
+          "progress": 0.8201754385964912,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.8840025792875323,
+          "eos": false,
+          "duration_class": 9,
+          "duration_token": 10,
+          "duration_probability": 0.09802773582660403
+        },
+        {
+          "prediction_index": 53,
+          "elapsed_duration": 199,
+          "progress": 0.8728070175438597,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.3978812978390551,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.6014923520261338
+        },
+        {
+          "prediction_index": 54,
+          "elapsed_duration": 203,
+          "progress": 0.8903508771929824,
+          "chord_class": 13,
+          "chord_token": 13,
+          "chord_probability": 0.06411888705829269,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.7896401365873351
+        },
+        {
+          "prediction_index": 55,
+          "elapsed_duration": 205,
+          "progress": 0.8991228070175439,
+          "chord_class": 71,
+          "chord_token": 71,
+          "chord_probability": 0.6559214413256997,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9772597156091657
+        },
+        {
+          "prediction_index": 56,
+          "elapsed_duration": 207,
+          "progress": 0.9078947368421053,
+          "chord_class": 58,
+          "chord_token": 58,
+          "chord_probability": 0.03703471842668905,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.45292524217382774
+        },
+        {
+          "prediction_index": 57,
+          "elapsed_duration": 209,
+          "progress": 0.9166666666666666,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.3437107332259482,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9864925454301916
+        },
+        {
+          "prediction_index": 58,
+          "elapsed_duration": 211,
+          "progress": 0.9254385964912281,
+          "chord_class": 16,
+          "chord_token": 16,
+          "chord_probability": 0.5078746354553081,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.5658383704471599
+        },
+        {
+          "prediction_index": 59,
+          "elapsed_duration": 213,
+          "progress": 0.9342105263157895,
+          "chord_class": 71,
+          "chord_token": 71,
+          "chord_probability": 0.35262970142606925,
+          "eos": false,
+          "duration_class": 0,
+          "duration_token": 1,
+          "duration_probability": 0.4881559698318641
+        },
+        {
+          "prediction_index": 60,
+          "elapsed_duration": 214,
+          "progress": 0.9385964912280702,
+          "chord_class": 13,
+          "chord_token": 13,
+          "chord_probability": 0.7875584578608741,
+          "eos": false,
+          "duration_class": 0,
+          "duration_token": 1,
+          "duration_probability": 0.9877310145629385
+        },
+        {
+          "prediction_index": 61,
+          "elapsed_duration": 215,
+          "progress": 0.9429824561403509,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.6736205555256232,
+          "eos": false,
+          "duration_class": 2,
+          "duration_token": 3,
+          "duration_probability": 0.1904719757719458
+        },
+        {
+          "prediction_index": 62,
+          "elapsed_duration": 218,
+          "progress": 0.956140350877193,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.9191148133974377,
+          "eos": false,
+          "duration_class": 0,
+          "duration_token": 1,
+          "duration_probability": 0.9989665785136446
+        },
+        {
+          "prediction_index": 63,
+          "elapsed_duration": 219,
+          "progress": 0.9605263157894737,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.9333155116065468,
+          "eos": false,
+          "duration_class": 5,
+          "duration_token": 6,
+          "duration_probability": 0.01863046963771454
+        },
+        {
+          "prediction_index": 64,
+          "elapsed_duration": 225,
+          "progress": 0.9868421052631579,
+          "chord_class": 3,
+          "chord_token": 3,
+          "chord_probability": 0.1007121798177154,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9783131829024113
+        },
+        {
+          "prediction_index": 65,
+          "elapsed_duration": 227,
+          "progress": 0.9956140350877193,
+          "chord_class": 30,
+          "chord_token": 30,
+          "chord_probability": 0.7265031934971522,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.19452915497465986
+        },
+        {
+          "prediction_index": 66,
+          "elapsed_duration": 229,
+          "progress": 1.0043859649122806,
+          "chord_class": 71,
+          "chord_token": 71,
+          "chord_probability": 0.05407154046855363,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.954095195719963
+        },
+        {
+          "prediction_index": 67,
+          "elapsed_duration": 231,
+          "progress": 1.013157894736842,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.9066003055323582,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.6324956826324429
+        },
+        {
+          "prediction_index": 68,
+          "elapsed_duration": 235,
+          "progress": 1.030701754385965,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.4372223842266313,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.42728411631227325
+        },
+        {
+          "prediction_index": 69,
+          "elapsed_duration": 239,
+          "progress": 1.0482456140350878,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.6795254866621783,
+          "eos": false,
+          "duration_class": 5,
+          "duration_token": 6,
+          "duration_probability": 0.04738197848739063
+        },
+        {
+          "prediction_index": 70,
+          "elapsed_duration": 245,
+          "progress": 1.0745614035087718,
+          "chord_class": 58,
+          "chord_token": 58,
+          "chord_probability": 0.1445890497483808,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9351123593157005
+        },
+        {
+          "prediction_index": 71,
+          "elapsed_duration": 247,
+          "progress": 1.0833333333333333,
+          "chord_class": 29,
+          "chord_token": 29,
+          "chord_probability": 0.009471274256763574,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.6821868612041696
+        },
+        {
+          "prediction_index": 72,
+          "elapsed_duration": 249,
+          "progress": 1.0921052631578947,
+          "chord_class": 3,
+          "chord_token": 3,
+          "chord_probability": 0.03149106360670547,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9913712453747604
+        },
+        {
+          "prediction_index": 73,
+          "elapsed_duration": 251,
+          "progress": 1.1008771929824561,
+          "chord_class": 57,
+          "chord_token": 57,
+          "chord_probability": 0.0425719694010149,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.6142922676213467
+        },
+        {
+          "prediction_index": 74,
+          "elapsed_duration": 253,
+          "progress": 1.1096491228070176,
+          "chord_class": 13,
+          "chord_token": 13,
+          "chord_probability": 0.16646794487659003,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.972213753355096
+        },
+        {
+          "prediction_index": 75,
+          "elapsed_duration": 255,
+          "progress": 1.118421052631579,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.13426907051700873,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.3914793044743322
+        },
+        {
+          "prediction_index": 76,
+          "elapsed_duration": 259,
+          "progress": 1.1359649122807018,
+          "chord_class": 30,
+          "chord_token": 30,
+          "chord_probability": 0.25861170635407255,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.6916980388076309
+        },
+        {
+          "prediction_index": 77,
+          "elapsed_duration": 263,
+          "progress": 1.1535087719298245,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.2482368410321928,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.7657256532666639
+        },
+        {
+          "prediction_index": 78,
+          "elapsed_duration": 267,
+          "progress": 1.1710526315789473,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.177363141646805,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.49915904034097586
+        },
+        {
+          "prediction_index": 79,
+          "elapsed_duration": 269,
+          "progress": 1.1798245614035088,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.7729712996198815,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.995313907200358
+        },
+        {
+          "prediction_index": 80,
+          "elapsed_duration": 271,
+          "progress": 1.1885964912280702,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.7745593944348745,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.2955478002357867
+        },
+        {
+          "prediction_index": 81,
+          "elapsed_duration": 275,
+          "progress": 1.206140350877193,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.33050910707750547,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.3404579104069402
+        },
+        {
+          "prediction_index": 82,
+          "elapsed_duration": 277,
+          "progress": 1.2149122807017543,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.7482008654142324,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9938606692235927
+        },
+        {
+          "prediction_index": 83,
+          "elapsed_duration": 279,
+          "progress": 1.2236842105263157,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.8359891254973925,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.31318167227649574
+        },
+        {
+          "prediction_index": 84,
+          "elapsed_duration": 287,
+          "progress": 1.2587719298245614,
+          "chord_class": 76,
+          "chord_token": 77,
+          "chord_probability": 0.7341026643951437,
+          "eos": true
+        }
+      ],
+      "termination_reason": "eos",
+      "generation_config": {
+        "seed": 123,
+        "chord_temperature": 1.0,
+        "duration_temperature": 1.0,
+        "max_events": 512
+      }
+    },
+    "major_8675309": {
+      "events": [
+        {
+          "chord_index": 0,
+          "duration": 8,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 21,
+          "duration": 2,
+          "chord_label": "ii m7"
+        },
+        {
+          "chord_index": 90,
+          "duration": 2,
+          "chord_label": "vii\u00b0"
+        },
+        {
+          "chord_index": 0,
+          "duration": 4,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 40,
+          "duration": 4,
+          "chord_label": "IV"
+        },
+        {
+          "chord_index": 59,
+          "duration": 4,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 0,
+          "duration": 4,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 56,
+          "duration": 6,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 59,
+          "duration": 2,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 17,
+          "duration": 2,
+          "chord_label": "ii"
+        },
+        {
+          "chord_index": 59,
+          "duration": 2,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 33,
+          "duration": 2,
+          "chord_label": "iii"
+        },
+        {
+          "chord_index": 90,
+          "duration": 2,
+          "chord_label": "vii\u00b0"
+        },
+        {
+          "chord_index": 0,
+          "duration": 4,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 56,
+          "duration": 12,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 0,
+          "duration": 8,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 40,
+          "duration": 4,
+          "chord_label": "IV"
+        },
+        {
+          "chord_index": 0,
+          "duration": 4,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 21,
+          "duration": 4,
+          "chord_label": "ii m7"
+        },
+        {
+          "chord_index": 56,
+          "duration": 4,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 0,
+          "duration": 8,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 56,
+          "duration": 2,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 59,
+          "duration": 2,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 73,
+          "duration": 4,
+          "chord_label": "vi"
+        },
+        {
+          "chord_index": 21,
+          "duration": 4,
+          "chord_label": "ii m7"
+        },
+        {
+          "chord_index": 59,
+          "duration": 4,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 0,
+          "duration": 4,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 56,
+          "duration": 2,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 59,
+          "duration": 2,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 0,
+          "duration": 16,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 40,
+          "duration": 4,
+          "chord_label": "IV"
+        },
+        {
+          "chord_index": 0,
+          "duration": 4,
+          "chord_label": "I"
+        },
+        {
+          "chord_index": 17,
+          "duration": 4,
+          "chord_label": "ii"
+        },
+        {
+          "chord_index": 59,
+          "duration": 2,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 37,
+          "duration": 2,
+          "chord_label": "iii m7"
+        },
+        {
+          "chord_index": 0,
+          "duration": 16,
+          "chord_label": "I"
+        }
+      ],
+      "trace": [
+        {
+          "prediction_index": 1,
+          "elapsed_duration": 0,
+          "progress": 0.0,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.8855613370284462,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.3065308262910157
+        },
+        {
+          "prediction_index": 2,
+          "elapsed_duration": 8,
+          "progress": 0.03508771929824561,
+          "chord_class": 16,
+          "chord_token": 16,
+          "chord_probability": 0.021363143952444694,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.31548339677562887
+        },
+        {
+          "prediction_index": 3,
+          "elapsed_duration": 10,
+          "progress": 0.043859649122807015,
+          "chord_class": 71,
+          "chord_token": 71,
+          "chord_probability": 0.6656311762979142,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9346408748766547
+        },
+        {
+          "prediction_index": 4,
+          "elapsed_duration": 12,
+          "progress": 0.05263157894736842,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.8842342880539931,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.6751857599256242
+        },
+        {
+          "prediction_index": 5,
+          "elapsed_duration": 16,
+          "progress": 0.07017543859649122,
+          "chord_class": 30,
+          "chord_token": 30,
+          "chord_probability": 0.10551311883592882,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.6294996069041549
+        },
+        {
+          "prediction_index": 6,
+          "elapsed_duration": 20,
+          "progress": 0.08771929824561403,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.08631028137245313,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.7139437596437387
+        },
+        {
+          "prediction_index": 7,
+          "elapsed_duration": 24,
+          "progress": 0.10526315789473684,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.8872489262508503,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5562830070637877
+        },
+        {
+          "prediction_index": 8,
+          "elapsed_duration": 28,
+          "progress": 0.12280701754385964,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.4833908762063575,
+          "eos": false,
+          "duration_class": 5,
+          "duration_token": 6,
+          "duration_probability": 0.04707505848794834
+        },
+        {
+          "prediction_index": 9,
+          "elapsed_duration": 34,
+          "progress": 0.14912280701754385,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.8182224930966633,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9846231136997566
+        },
+        {
+          "prediction_index": 10,
+          "elapsed_duration": 36,
+          "progress": 0.15789473684210525,
+          "chord_class": 13,
+          "chord_token": 13,
+          "chord_probability": 0.002412222783713762,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.3349251524980944
+        },
+        {
+          "prediction_index": 11,
+          "elapsed_duration": 38,
+          "progress": 0.16666666666666666,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.11529675871650416,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9964646475962299
+        },
+        {
+          "prediction_index": 12,
+          "elapsed_duration": 40,
+          "progress": 0.17543859649122806,
+          "chord_class": 25,
+          "chord_token": 25,
+          "chord_probability": 0.028795773973777278,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.42068292464442714
+        },
+        {
+          "prediction_index": 13,
+          "elapsed_duration": 42,
+          "progress": 0.18421052631578946,
+          "chord_class": 71,
+          "chord_token": 71,
+          "chord_probability": 0.04477511094534644,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.953190014341143
+        },
+        {
+          "prediction_index": 14,
+          "elapsed_duration": 44,
+          "progress": 0.19298245614035087,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.8650411527810528,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5559124092248358
+        },
+        {
+          "prediction_index": 15,
+          "elapsed_duration": 48,
+          "progress": 0.21052631578947367,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.43944397578072647,
+          "eos": false,
+          "duration_class": 9,
+          "duration_token": 10,
+          "duration_probability": 0.03302203988150326
+        },
+        {
+          "prediction_index": 16,
+          "elapsed_duration": 60,
+          "progress": 0.2631578947368421,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.5821474196639217,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.2922426961351721
+        },
+        {
+          "prediction_index": 17,
+          "elapsed_duration": 68,
+          "progress": 0.2982456140350877,
+          "chord_class": 30,
+          "chord_token": 30,
+          "chord_probability": 0.25329210109080397,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.7442395594461774
+        },
+        {
+          "prediction_index": 18,
+          "elapsed_duration": 72,
+          "progress": 0.3157894736842105,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.2852916555959867,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.750498664955859
+        },
+        {
+          "prediction_index": 19,
+          "elapsed_duration": 76,
+          "progress": 0.3333333333333333,
+          "chord_class": 16,
+          "chord_token": 16,
+          "chord_probability": 0.12254044797999131,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5050936677859525
+        },
+        {
+          "prediction_index": 20,
+          "elapsed_duration": 80,
+          "progress": 0.3508771929824561,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.6508442132624019,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.32251392107217475
+        },
+        {
+          "prediction_index": 21,
+          "elapsed_duration": 84,
+          "progress": 0.3684210526315789,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.8136395822953324,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.30331519492123227
+        },
+        {
+          "prediction_index": 22,
+          "elapsed_duration": 92,
+          "progress": 0.40350877192982454,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.24667819537769411,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.23722990489616544
+        },
+        {
+          "prediction_index": 23,
+          "elapsed_duration": 94,
+          "progress": 0.41228070175438597,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.5653699160447887,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.990060887857239
+        },
+        {
+          "prediction_index": 24,
+          "elapsed_duration": 96,
+          "progress": 0.42105263157894735,
+          "chord_class": 58,
+          "chord_token": 58,
+          "chord_probability": 0.3492170710048903,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.44908788654189447
+        },
+        {
+          "prediction_index": 25,
+          "elapsed_duration": 100,
+          "progress": 0.43859649122807015,
+          "chord_class": 16,
+          "chord_token": 16,
+          "chord_probability": 0.040278805741305296,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5664868464811952
+        },
+        {
+          "prediction_index": 26,
+          "elapsed_duration": 104,
+          "progress": 0.45614035087719296,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.14368589832984371,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.8079369299268837
+        },
+        {
+          "prediction_index": 27,
+          "elapsed_duration": 108,
+          "progress": 0.47368421052631576,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.9677586734333661,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.29357558074678913
+        },
+        {
+          "prediction_index": 28,
+          "elapsed_duration": 112,
+          "progress": 0.49122807017543857,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.5006402420030198,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.20845069573677283
+        },
+        {
+          "prediction_index": 29,
+          "elapsed_duration": 114,
+          "progress": 0.5,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.7539494298409567,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.984178140582718
+        },
+        {
+          "prediction_index": 30,
+          "elapsed_duration": 116,
+          "progress": 0.5087719298245614,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.7865826030684011,
+          "eos": false,
+          "duration_class": 12,
+          "duration_token": 13,
+          "duration_probability": 0.17262191856724116
+        },
+        {
+          "prediction_index": 31,
+          "elapsed_duration": 132,
+          "progress": 0.5789473684210527,
+          "chord_class": 30,
+          "chord_token": 30,
+          "chord_probability": 0.09797755753020203,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.7372047058886111
+        },
+        {
+          "prediction_index": 32,
+          "elapsed_duration": 136,
+          "progress": 0.5964912280701754,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.2803037003183613,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.7348938488125084
+        },
+        {
+          "prediction_index": 33,
+          "elapsed_duration": 140,
+          "progress": 0.6140350877192983,
+          "chord_class": 13,
+          "chord_token": 13,
+          "chord_probability": 0.11974992456990882,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.34803422453227023
+        },
+        {
+          "prediction_index": 34,
+          "elapsed_duration": 144,
+          "progress": 0.631578947368421,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.13778145461174865,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.3581249212814336
+        },
+        {
+          "prediction_index": 35,
+          "elapsed_duration": 146,
+          "progress": 0.6403508771929824,
+          "chord_class": 28,
+          "chord_token": 28,
+          "chord_probability": 0.416996560156565,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.66753421960053
+        },
+        {
+          "prediction_index": 36,
+          "elapsed_duration": 148,
+          "progress": 0.6491228070175439,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.5333516027518973,
+          "eos": false,
+          "duration_class": 12,
+          "duration_token": 13,
+          "duration_probability": 0.0940492087014049
+        },
+        {
+          "prediction_index": 37,
+          "elapsed_duration": 164,
+          "progress": 0.7192982456140351,
+          "chord_class": 76,
+          "chord_token": 77,
+          "chord_probability": 0.6737203282276505,
+          "eos": true
+        }
+      ],
+      "termination_reason": "eos",
+      "generation_config": {
+        "seed": 8675309,
+        "chord_temperature": 1.0,
+        "duration_temperature": 1.0,
+        "max_events": 512
+      }
+    },
+    "minor_123": {
+      "events": [
+        {
+          "chord_index": 1,
+          "duration": 2,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 90,
+          "duration": 2,
+          "chord_label": "vii\u00b0"
+        },
+        {
+          "chord_index": 1,
+          "duration": 4,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 22,
+          "duration": 2,
+          "chord_label": "ii\u00b0 half7"
+        },
+        {
+          "chord_index": 18,
+          "duration": 1,
+          "chord_label": "ii\u00b0"
+        },
+        {
+          "chord_index": 66,
+          "duration": 1,
+          "chord_label": "\u266dvi\u00b0"
+        },
+        {
+          "chord_index": 80,
+          "duration": 8,
+          "chord_label": "\u266dVII"
+        },
+        {
+          "chord_index": 24,
+          "duration": 6,
+          "chord_label": "\u266dIII"
+        },
+        {
+          "chord_index": 18,
+          "duration": 2,
+          "chord_label": "ii\u00b0"
+        },
+        {
+          "chord_index": 1,
+          "duration": 2,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 59,
+          "duration": 2,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 64,
+          "duration": 4,
+          "chord_label": "\u266dVI"
+        },
+        {
+          "chord_index": 24,
+          "duration": 4,
+          "chord_label": "\u266dIII"
+        },
+        {
+          "chord_index": 61,
+          "duration": 4,
+          "chord_label": "v m7"
+        },
+        {
+          "chord_index": 43,
+          "duration": 2,
+          "chord_label": "IV 7"
+        },
+        {
+          "chord_index": 24,
+          "duration": 2,
+          "chord_label": "\u266dIII"
+        },
+        {
+          "chord_index": 43,
+          "duration": 4,
+          "chord_label": "IV 7"
+        },
+        {
+          "chord_index": 90,
+          "duration": 4,
+          "chord_label": "vii\u00b0"
+        },
+        {
+          "chord_index": 1,
+          "duration": 2,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 74,
+          "duration": 2,
+          "chord_label": "vi\u00b0"
+        },
+        {
+          "chord_index": 56,
+          "duration": 2,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 59,
+          "duration": 2,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 1,
+          "duration": 4,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 56,
+          "duration": 4,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 1,
+          "duration": 4,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 56,
+          "duration": 2,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 59,
+          "duration": 2,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 64,
+          "duration": 4,
+          "chord_label": "\u266dVI"
+        },
+        {
+          "chord_index": 1,
+          "duration": 4,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 22,
+          "duration": 2,
+          "chord_label": "ii\u00b0 half7"
+        },
+        {
+          "chord_index": 45,
+          "duration": 2,
+          "chord_label": "iv m7"
+        },
+        {
+          "chord_index": 56,
+          "duration": 2,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 59,
+          "duration": 2,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 1,
+          "duration": 8,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 64,
+          "duration": 2,
+          "chord_label": "\u266dVI"
+        },
+        {
+          "chord_index": 5,
+          "duration": 2,
+          "chord_label": "i m7"
+        },
+        {
+          "chord_index": 22,
+          "duration": 2,
+          "chord_label": "ii\u00b0 half7"
+        },
+        {
+          "chord_index": 95,
+          "duration": 4,
+          "chord_label": "vii\u00b0 dim7"
+        },
+        {
+          "chord_index": 1,
+          "duration": 4,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 90,
+          "duration": 2,
+          "chord_label": "vii\u00b0"
+        },
+        {
+          "chord_index": 1,
+          "duration": 4,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 59,
+          "duration": 2,
+          "chord_label": "V 7"
+        },
+        {
+          "chord_index": 1,
+          "duration": 16,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 77,
+          "duration": 2,
+          "chord_label": "vi m7"
+        },
+        {
+          "chord_index": 56,
+          "duration": 8,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 0,
+          "duration": 8,
+          "chord_label": "I"
+        }
+      ],
+      "trace": [
+        {
+          "prediction_index": 1,
+          "elapsed_duration": 0,
+          "progress": 0.0,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.8333111743771598,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.19833785927833764
+        },
+        {
+          "prediction_index": 2,
+          "elapsed_duration": 2,
+          "progress": 0.008771929824561403,
+          "chord_class": 71,
+          "chord_token": 71,
+          "chord_probability": 0.019336674612468182,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9605073682852557
+        },
+        {
+          "prediction_index": 3,
+          "elapsed_duration": 4,
+          "progress": 0.017543859649122806,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.979469182031537,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.7650267226862286
+        },
+        {
+          "prediction_index": 4,
+          "elapsed_duration": 8,
+          "progress": 0.03508771929824561,
+          "chord_class": 17,
+          "chord_token": 17,
+          "chord_probability": 0.2559264699844193,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.5651790810929027
+        },
+        {
+          "prediction_index": 5,
+          "elapsed_duration": 10,
+          "progress": 0.043859649122807015,
+          "chord_class": 14,
+          "chord_token": 14,
+          "chord_probability": 0.009186065572468375,
+          "eos": false,
+          "duration_class": 0,
+          "duration_token": 1,
+          "duration_probability": 0.15151747343369654
+        },
+        {
+          "prediction_index": 6,
+          "elapsed_duration": 11,
+          "progress": 0.04824561403508772,
+          "chord_class": 53,
+          "chord_token": 53,
+          "chord_probability": 0.023636945263715573,
+          "eos": false,
+          "duration_class": 0,
+          "duration_token": 1,
+          "duration_probability": 0.9436031801419601
+        },
+        {
+          "prediction_index": 7,
+          "elapsed_duration": 12,
+          "progress": 0.05263157894736842,
+          "chord_class": 63,
+          "chord_token": 63,
+          "chord_probability": 0.03242761748765371,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.09074262444793897
+        },
+        {
+          "prediction_index": 8,
+          "elapsed_duration": 20,
+          "progress": 0.08771929824561403,
+          "chord_class": 18,
+          "chord_token": 18,
+          "chord_probability": 0.7844892133315815,
+          "eos": false,
+          "duration_class": 5,
+          "duration_token": 6,
+          "duration_probability": 0.06449245492183708
+        },
+        {
+          "prediction_index": 9,
+          "elapsed_duration": 26,
+          "progress": 0.11403508771929824,
+          "chord_class": 14,
+          "chord_token": 14,
+          "chord_probability": 0.018785630045238165,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9316937099485793
+        },
+        {
+          "prediction_index": 10,
+          "elapsed_duration": 28,
+          "progress": 0.12280701754385964,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.33561926670721764,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.3493878770641599
+        },
+        {
+          "prediction_index": 11,
+          "elapsed_duration": 30,
+          "progress": 0.13157894736842105,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.016341871621224528,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9853257234576992
+        },
+        {
+          "prediction_index": 12,
+          "elapsed_duration": 32,
+          "progress": 0.14035087719298245,
+          "chord_class": 51,
+          "chord_token": 51,
+          "chord_probability": 0.07206261295294847,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.400844183973033
+        },
+        {
+          "prediction_index": 13,
+          "elapsed_duration": 36,
+          "progress": 0.15789473684210525,
+          "chord_class": 18,
+          "chord_token": 18,
+          "chord_probability": 0.09265065763995722,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5949677242313961
+        },
+        {
+          "prediction_index": 14,
+          "elapsed_duration": 40,
+          "progress": 0.17543859649122806,
+          "chord_class": 49,
+          "chord_token": 49,
+          "chord_probability": 0.003737158770766071,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.7682193161886294
+        },
+        {
+          "prediction_index": 15,
+          "elapsed_duration": 44,
+          "progress": 0.19298245614035087,
+          "chord_class": 33,
+          "chord_token": 33,
+          "chord_probability": 0.004419506078819692,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.31173316101111737
+        },
+        {
+          "prediction_index": 16,
+          "elapsed_duration": 46,
+          "progress": 0.20175438596491227,
+          "chord_class": 18,
+          "chord_token": 18,
+          "chord_probability": 0.013644180899783245,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.8989173264272502
+        },
+        {
+          "prediction_index": 17,
+          "elapsed_duration": 48,
+          "progress": 0.21052631578947367,
+          "chord_class": 33,
+          "chord_token": 33,
+          "chord_probability": 0.07497559071297168,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.7007920981991542
+        },
+        {
+          "prediction_index": 18,
+          "elapsed_duration": 52,
+          "progress": 0.22807017543859648,
+          "chord_class": 71,
+          "chord_token": 71,
+          "chord_probability": 0.0596349223400029,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.7647665381767521
+        },
+        {
+          "prediction_index": 19,
+          "elapsed_duration": 56,
+          "progress": 0.24561403508771928,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.9758049564039888,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.24505185014590772
+        },
+        {
+          "prediction_index": 20,
+          "elapsed_duration": 58,
+          "progress": 0.2543859649122807,
+          "chord_class": 59,
+          "chord_token": 59,
+          "chord_probability": 0.09546028260348934,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9668497853538085
+        },
+        {
+          "prediction_index": 21,
+          "elapsed_duration": 60,
+          "progress": 0.2631578947368421,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.2530504592653073,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.34201285917575147
+        },
+        {
+          "prediction_index": 22,
+          "elapsed_duration": 62,
+          "progress": 0.2719298245614035,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.7209909676218167,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9926864205771337
+        },
+        {
+          "prediction_index": 23,
+          "elapsed_duration": 64,
+          "progress": 0.2807017543859649,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.8791717188601753,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.4903065788934488
+        },
+        {
+          "prediction_index": 24,
+          "elapsed_duration": 68,
+          "progress": 0.2982456140350877,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.2366750405380763,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.44609974780969514
+        },
+        {
+          "prediction_index": 25,
+          "elapsed_duration": 72,
+          "progress": 0.3157894736842105,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.7833884794064159,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.6143944059120034
+        },
+        {
+          "prediction_index": 26,
+          "elapsed_duration": 76,
+          "progress": 0.3333333333333333,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.17860990449750283,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.31000828025611904
+        },
+        {
+          "prediction_index": 27,
+          "elapsed_duration": 78,
+          "progress": 0.34210526315789475,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.8518408296224798,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9803668504753487
+        },
+        {
+          "prediction_index": 28,
+          "elapsed_duration": 80,
+          "progress": 0.3508771929824561,
+          "chord_class": 51,
+          "chord_token": 51,
+          "chord_probability": 0.12076700413763927,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.40382417812519766
+        },
+        {
+          "prediction_index": 29,
+          "elapsed_duration": 84,
+          "progress": 0.3684210526315789,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.04697869920569361,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.7789303826869934
+        },
+        {
+          "prediction_index": 30,
+          "elapsed_duration": 88,
+          "progress": 0.38596491228070173,
+          "chord_class": 17,
+          "chord_token": 17,
+          "chord_probability": 0.3821005659917361,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.5460440956464728
+        },
+        {
+          "prediction_index": 31,
+          "elapsed_duration": 90,
+          "progress": 0.39473684210526316,
+          "chord_class": 35,
+          "chord_token": 35,
+          "chord_probability": 0.04314869282805837,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.8964401554920363
+        },
+        {
+          "prediction_index": 32,
+          "elapsed_duration": 92,
+          "progress": 0.40350877192982454,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.7829492286087828,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.24894811877973322
+        },
+        {
+          "prediction_index": 33,
+          "elapsed_duration": 94,
+          "progress": 0.41228070175438597,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.8849873293475274,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.993771043880615
+        },
+        {
+          "prediction_index": 34,
+          "elapsed_duration": 96,
+          "progress": 0.42105263157894735,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.7547594139841862,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.21458504692121586
+        },
+        {
+          "prediction_index": 35,
+          "elapsed_duration": 104,
+          "progress": 0.45614035087719296,
+          "chord_class": 51,
+          "chord_token": 51,
+          "chord_probability": 0.03577369369453642,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.595976717113494
+        },
+        {
+          "prediction_index": 36,
+          "elapsed_duration": 106,
+          "progress": 0.4649122807017544,
+          "chord_class": 5,
+          "chord_token": 5,
+          "chord_probability": 0.06263135290477875,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.9936678404270084
+        },
+        {
+          "prediction_index": 37,
+          "elapsed_duration": 108,
+          "progress": 0.47368421052631576,
+          "chord_class": 17,
+          "chord_token": 17,
+          "chord_probability": 0.22473474267609606,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.7647024938667398
+        },
+        {
+          "prediction_index": 38,
+          "elapsed_duration": 110,
+          "progress": 0.4824561403508772,
+          "chord_class": 75,
+          "chord_token": 75,
+          "chord_probability": 0.08993041935277699,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.01487943684139424
+        },
+        {
+          "prediction_index": 39,
+          "elapsed_duration": 114,
+          "progress": 0.5,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.8742853043950242,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.15639433846469522
+        },
+        {
+          "prediction_index": 40,
+          "elapsed_duration": 118,
+          "progress": 0.5175438596491229,
+          "chord_class": 71,
+          "chord_token": 71,
+          "chord_probability": 0.06511168198680896,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.8694370998867593
+        },
+        {
+          "prediction_index": 41,
+          "elapsed_duration": 120,
+          "progress": 0.5263157894736842,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.9049135217428944,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5007649075953529
+        },
+        {
+          "prediction_index": 42,
+          "elapsed_duration": 124,
+          "progress": 0.543859649122807,
+          "chord_class": 47,
+          "chord_token": 47,
+          "chord_probability": 0.05851250776452204,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.4071483289730625
+        },
+        {
+          "prediction_index": 43,
+          "elapsed_duration": 126,
+          "progress": 0.5526315789473685,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.66380851905609,
+          "eos": false,
+          "duration_class": 12,
+          "duration_token": 13,
+          "duration_probability": 0.06787023686121642
+        },
+        {
+          "prediction_index": 44,
+          "elapsed_duration": 142,
+          "progress": 0.6228070175438597,
+          "chord_class": 61,
+          "chord_token": 61,
+          "chord_probability": 0.007426994113799251,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.5703065588835771
+        },
+        {
+          "prediction_index": 45,
+          "elapsed_duration": 144,
+          "progress": 0.631578947368421,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.6344920892333278,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.2884512113307549
+        },
+        {
+          "prediction_index": 46,
+          "elapsed_duration": 152,
+          "progress": 0.6666666666666666,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.04766230992140981,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.7245547974612794
+        },
+        {
+          "prediction_index": 47,
+          "elapsed_duration": 160,
+          "progress": 0.7017543859649122,
+          "chord_class": 76,
+          "chord_token": 77,
+          "chord_probability": 0.7311388310034638,
+          "eos": true
+        }
+      ],
+      "termination_reason": "eos",
+      "generation_config": {
+        "seed": 123,
+        "chord_temperature": 1.0,
+        "duration_temperature": 1.0,
+        "max_events": 512
+      }
+    },
+    "minor_8675309": {
+      "events": [
+        {
+          "chord_index": 1,
+          "duration": 8,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 24,
+          "duration": 2,
+          "chord_label": "\u266dIII"
+        },
+        {
+          "chord_index": 80,
+          "duration": 2,
+          "chord_label": "\u266dVII"
+        },
+        {
+          "chord_index": 24,
+          "duration": 4,
+          "chord_label": "\u266dIII"
+        },
+        {
+          "chord_index": 45,
+          "duration": 2,
+          "chord_label": "iv m7"
+        },
+        {
+          "chord_index": 18,
+          "duration": 2,
+          "chord_label": "ii\u00b0"
+        },
+        {
+          "chord_index": 24,
+          "duration": 4,
+          "chord_label": "\u266dIII"
+        },
+        {
+          "chord_index": 45,
+          "duration": 6,
+          "chord_label": "iv m7"
+        },
+        {
+          "chord_index": 18,
+          "duration": 2,
+          "chord_label": "ii\u00b0"
+        },
+        {
+          "chord_index": 24,
+          "duration": 4,
+          "chord_label": "\u266dIII"
+        },
+        {
+          "chord_index": 43,
+          "duration": 4,
+          "chord_label": "IV 7"
+        },
+        {
+          "chord_index": 56,
+          "duration": 8,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 1,
+          "duration": 4,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 41,
+          "duration": 2,
+          "chord_label": "iv"
+        },
+        {
+          "chord_index": 57,
+          "duration": 2,
+          "chord_label": "v"
+        },
+        {
+          "chord_index": 43,
+          "duration": 4,
+          "chord_label": "IV 7"
+        },
+        {
+          "chord_index": 56,
+          "duration": 4,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 1,
+          "duration": 4,
+          "chord_label": "i"
+        },
+        {
+          "chord_index": 22,
+          "duration": 4,
+          "chord_label": "ii\u00b0 half7"
+        },
+        {
+          "chord_index": 56,
+          "duration": 4,
+          "chord_label": "V"
+        },
+        {
+          "chord_index": 0,
+          "duration": 8,
+          "chord_label": "I"
+        }
+      ],
+      "trace": [
+        {
+          "prediction_index": 1,
+          "elapsed_duration": 0,
+          "progress": 0.0,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.8333111743771598,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.23553360795857864
+        },
+        {
+          "prediction_index": 2,
+          "elapsed_duration": 8,
+          "progress": 0.03508771929824561,
+          "chord_class": 18,
+          "chord_token": 18,
+          "chord_probability": 0.060845670009603926,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.30298266680075675
+        },
+        {
+          "prediction_index": 3,
+          "elapsed_duration": 10,
+          "progress": 0.043859649122807015,
+          "chord_class": 63,
+          "chord_token": 63,
+          "chord_probability": 0.04147217297912315,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.7956082365621782
+        },
+        {
+          "prediction_index": 4,
+          "elapsed_duration": 12,
+          "progress": 0.05263157894736842,
+          "chord_class": 18,
+          "chord_token": 18,
+          "chord_probability": 0.6342161444379875,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.6094552676378322
+        },
+        {
+          "prediction_index": 5,
+          "elapsed_duration": 16,
+          "progress": 0.07017543859649122,
+          "chord_class": 35,
+          "chord_token": 35,
+          "chord_probability": 0.07367467157851974,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.5222691970873176
+        },
+        {
+          "prediction_index": 6,
+          "elapsed_duration": 18,
+          "progress": 0.07894736842105263,
+          "chord_class": 14,
+          "chord_token": 14,
+          "chord_probability": 0.37300664465168776,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.8439308326145142
+        },
+        {
+          "prediction_index": 7,
+          "elapsed_duration": 20,
+          "progress": 0.08771929824561403,
+          "chord_class": 18,
+          "chord_token": 18,
+          "chord_probability": 0.6750298330125966,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.7190300910118084
+        },
+        {
+          "prediction_index": 8,
+          "elapsed_duration": 24,
+          "progress": 0.10526315789473684,
+          "chord_class": 35,
+          "chord_token": 35,
+          "chord_probability": 0.11451704088898416,
+          "eos": false,
+          "duration_class": 5,
+          "duration_token": 6,
+          "duration_probability": 0.008351133326861923
+        },
+        {
+          "prediction_index": 9,
+          "elapsed_duration": 30,
+          "progress": 0.13157894736842105,
+          "chord_class": 14,
+          "chord_token": 14,
+          "chord_probability": 0.3083364704822731,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.7482629657935351
+        },
+        {
+          "prediction_index": 10,
+          "elapsed_duration": 32,
+          "progress": 0.14035087719298245,
+          "chord_class": 18,
+          "chord_token": 18,
+          "chord_probability": 0.7240897756412958,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.684663965240884
+        },
+        {
+          "prediction_index": 11,
+          "elapsed_duration": 36,
+          "progress": 0.15789473684210525,
+          "chord_class": 33,
+          "chord_token": 33,
+          "chord_probability": 0.06699451019808544,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.7362817347071039
+        },
+        {
+          "prediction_index": 12,
+          "elapsed_duration": 40,
+          "progress": 0.17543859649122806,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.0553795108530101,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.10162333952350265
+        },
+        {
+          "prediction_index": 13,
+          "elapsed_duration": 48,
+          "progress": 0.21052631578947367,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.7892813012957638,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.5146716324167454
+        },
+        {
+          "prediction_index": 14,
+          "elapsed_duration": 52,
+          "progress": 0.22807017543859648,
+          "chord_class": 31,
+          "chord_token": 31,
+          "chord_probability": 0.03709918438922964,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.472807435371805
+        },
+        {
+          "prediction_index": 15,
+          "elapsed_duration": 54,
+          "progress": 0.23684210526315788,
+          "chord_class": 45,
+          "chord_token": 45,
+          "chord_probability": 0.006068400868738151,
+          "eos": false,
+          "duration_class": 1,
+          "duration_token": 2,
+          "duration_probability": 0.8506449485854864
+        },
+        {
+          "prediction_index": 16,
+          "elapsed_duration": 56,
+          "progress": 0.24561403508771928,
+          "chord_class": 33,
+          "chord_token": 33,
+          "chord_probability": 0.010085467821081844,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.7065811433322432
+        },
+        {
+          "prediction_index": 17,
+          "elapsed_duration": 60,
+          "progress": 0.2631578947368421,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.0858950944091714,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.2873339638907367
+        },
+        {
+          "prediction_index": 18,
+          "elapsed_duration": 64,
+          "progress": 0.2807017543859649,
+          "chord_class": 1,
+          "chord_token": 1,
+          "chord_probability": 0.7971935465063426,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.4893553503083235
+        },
+        {
+          "prediction_index": 19,
+          "elapsed_duration": 68,
+          "progress": 0.2982456140350877,
+          "chord_class": 17,
+          "chord_token": 17,
+          "chord_probability": 0.1761244837204907,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.3712054423064884
+        },
+        {
+          "prediction_index": 20,
+          "elapsed_duration": 72,
+          "progress": 0.3157894736842105,
+          "chord_class": 44,
+          "chord_token": 44,
+          "chord_probability": 0.7475814981584187,
+          "eos": false,
+          "duration_class": 3,
+          "duration_token": 4,
+          "duration_probability": 0.13609443093192766
+        },
+        {
+          "prediction_index": 21,
+          "elapsed_duration": 76,
+          "progress": 0.3333333333333333,
+          "chord_class": 0,
+          "chord_token": 0,
+          "chord_probability": 0.1672562845481273,
+          "eos": false,
+          "duration_class": 7,
+          "duration_token": 8,
+          "duration_probability": 0.5743115576327609
+        },
+        {
+          "prediction_index": 22,
+          "elapsed_duration": 84,
+          "progress": 0.3684210526315789,
+          "chord_class": 76,
+          "chord_token": 77,
+          "chord_probability": 0.709232757490061,
+          "eos": true
+        }
+      ],
+      "termination_reason": "eos",
+      "generation_config": {
+        "seed": 8675309,
+        "chord_temperature": 1.0,
+        "duration_temperature": 1.0,
+        "max_events": 512
+      }
+    }
+  }
+}

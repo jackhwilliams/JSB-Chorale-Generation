@@ -1,0 +1,8 @@
+{
+  "window_size": 16,
+  "hidden_sizes": [128, 64],
+  "duration_hidden_sizes": [64],
+  "chord_embedding_dim": 32,
+  "duration_embedding_dim": 8,
+  "dropout": 0.2
+}

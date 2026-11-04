@@ -1,0 +1,5 @@
+# Direct dependencies shared by both model pipelines. Python 3.11 is recommended.
+# Install the platform-appropriate PyTorch 2.8.0 wheel first (see root README).
+torch==2.8.0
+numpy==2.0.2
+matplotlib==3.9.4

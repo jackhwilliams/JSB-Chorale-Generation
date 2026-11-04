@@ -1,0 +1,46 @@
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local environments, editors, caches and credentials
+venv/
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.work/
+.DS_Store
+Thumbs.db
+*.egg-info/
+build/
+dist/
+
+# Personal chat records, migration audits and obsolete local documentation
+/project details/
+/GRU/documentation/
+/MLP/documentation/
+/GRU/reorganization/
+/MLP/reorganization/
+
+# Training and generated outputs remain local. Keep the frozen model inputs.
+/GRU/runs/
+/MLP/runs/
+/GRU/generated/
+/MLP/generated/
+/GRU/evaluations/
+/MLP/evaluations/
+/GRU/artifacts/*
+!/GRU/artifacts/preprocessing/
+/MLP/artifacts/*
+!/MLP/artifacts/preprocessing/
+
+# Optional audio assets and exported media; source CSVs/scripts stay included.
+/data/*.sf2
+*.mid
+*.midi
+*.musicxml
+*.wav

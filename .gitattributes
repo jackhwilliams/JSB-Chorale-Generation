@@ -1,0 +1,9 @@
+# Consistent source/documentation checkouts on Windows, macOS and Linux.
+* text=auto eol=lf
+
+# Preserve original corpus bytes and frozen preprocessing hashes.
+data/** -text
+**/artifacts/preprocessing/*.json -text
+*.pt binary
+*.pdf binary
+*.sf2 binary

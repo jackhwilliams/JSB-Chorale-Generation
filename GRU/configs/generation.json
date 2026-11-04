@@ -1,0 +1,6 @@
+{
+  "seed": 8675309,
+  "chord_temperature": 1.0,
+  "duration_temperature": 1.0,
+  "max_events": 512
+}

@@ -1,0 +1,14 @@
+{
+  "seed": 8675309,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "batch_size": null,
+  "max_epochs": 100,
+  "patience": 12,
+  "gradient_clip": 1.0,
+  "chord_weight": 1.0,
+  "duration_weight": 1.0,
+  "device": "auto",
+  "num_threads": 1,
+  "overfit_updates": 500
+}

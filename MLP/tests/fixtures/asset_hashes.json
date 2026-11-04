@@ -1,0 +1,12 @@
+{
+  "checkpoints/baseline/best.pt": "9fe3b54a07779180210d73529b018d071aaf5c7c913b67a8da65add6600fb06e",
+  "artifacts/preprocessing/chorales.json": "b557a71ec398088a69d616374c9cae0c36f28cacfa95cde0b54bb0d8835ea1a6",
+  "artifacts/preprocessing/metadata.json": "98392c7d890144065ff2075988c72a941c9c4352e4699efb9e1639d330afe6e0",
+  "configs/baseline.json": "d6ca764d6d87116a3b830b5aa34e6c99f831d3dc8178060df4ca262610316cce",
+  "configs/chord_labels.json": "0dbdc4c8186620c1616c65dbea4893f061971ea44b1d292e5fa5503b1b49fb7c",
+  "configs/evaluation.json": "fbe1a48598af80848e905aa4fbc7ac546972db7c1f99a4fad657fc8aad70a391",
+  "configs/experiments.json": "bfece6bf1d2ca13e5bf57ef28e6a659edbd6ca189ca2804223b59361b3afff39",
+  "configs/generation.json": "bf8f788bf344e42e08ac4e87827075c442b1b081a32b0377d10bab73be454261",
+  "configs/training.json": "257551511043b120182accb741aef2c41c7538dbc79725b2fa61d0283eedbfe7",
+  "tests/fixtures/generation_reference.json": "d97256be87d4c03dc5051cb15c125ea452d31f7704ac058b1d324c918205efec"
+}

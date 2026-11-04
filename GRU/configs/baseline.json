@@ -1,0 +1,9 @@
+{
+  "hidden_size": 64,
+  "num_layers": 1,
+  "duration_hidden_sizes": [64],
+  "chord_embedding_dim": 32,
+  "duration_embedding_dim": 8,
+  "input_dropout": 0.2,
+  "recurrent_dropout": 0.0
+}
